@@ -1,0 +1,520 @@
+Bucuresti Nord,0
+Videle,51
+Galateni,67
+Olteni,74
+Vartoapele hc,80
+Radoiesti Hm,85
+Atirnati,93
+Rosiori Nord,100
+Caracal,156
+Craiova,209
+Filiasi,245
+Strehaia hc,271
+Balota,304
+Drobeta Turnu Severin,323
+Orsova,347
+Baile Herculane,364
+Slatina Timis,414
+Caransebes,435
+Lugoj,474
+Timisoara Nord,533
+Arad,590
+Curtici,607
+Oradea,649
+Oradea Est,645
+Osorhei,639
+Tileagd,626
+Alesd,614
+Vadu Crisului,602
+Suncuius,595
+Bratca,589
+Stana de Vale hc,585
+Piatra Craiului,579
+Lacu Crisului h,575
+Negreni h,571
+Ciucea,569
+Valea Draganului hc,565
+Poieni,562
+Bologa hc,559
+Braisoru,556
+Huedin,547
+Aghires hc,528
+Aghires,525
+Garbau,517
+Cluj Napoca,497
+Baciu Triaj,502
+Radaia h,508
+Mera,509
+Bulz,583
+Doroltu hc,523
+Maneciu,110
+Gheaba 2,109
+Maneciu Pamanteni hc,107
+Izvoarele hc,106
+Homoriciu Hm,102
+Teisani,99
+Valeni Nord,95
+Valenii de Munte,92
+PO Gura Vitioarei,90
+Faget Teleajen,87
+Magurele Prahova N. hc,86
+Magurele Prahova,83
+Magurele Sud hc,81
+Lipanesti hc,77
+Boldesti hc,75
+Scaeni,73
+Blejoi,69
+Ploiesti Nord,65
+Ploiesti E. P. 1 h,62
+Ploiesti Sud,59
+Radomiresti,126
+Draganesti Olt,138
+Piatra Olt,189
+Dragasani,223
+Babeni,256
+Govora,264
+Ramnicu Valcea,276
+Calimanesti,292
+Pausa h,294
+Buftea,17
+Crivina,39
+Ploiesti Vest,59
+Campina,92
+Breaza hc,97
+Comarnic,106
+Sinaia,121
+Busteni,129
+Azuga,133
+Predeal,140
+Brasov,166
+Mizil,93
+Buzau,128
+Faurei,139
+Ianca,156
+Braila,199
+Barbosi,218
+Galati,230
+Lunca Ilvei,545
+Ilva Mare,538
+Magura Ilvei,531
+Poiana Ilvei,527
+Lesu Ilvei Hm,519
+Stramba h,517
+Ilva Mica,514
+Podereia Feldrului h.,511
+Feldru Hm,509
+Nepos hc,504
+Rebrisoara,499
+Nasaud,494
+Nasaud H,492
+Salva,488
+Mititei hc,485
+Nimigea,481
+Nimigea hc,479
+Mogoseni Hm,475
+Cociu hc,473
+Beclean pe Somes,466
+Sintereag,458
+Caila hc,454
+Sfantu hc,452
+Magherus Sieu,447
+Arcalia hc,445
+Saratel,441
+Bistrita Nord,452
+Suceag hc,506
+Nadasel hc,511
+Macau hc,521
+Galaseni hc,534
+Stana Hm,536
+Constanta,225
+Medgidia,190
+Cernavoda Pod,166
+Fetesti,146
+Ciulnita,109
+Bucuresti Baneasa,7
+Lehliu,70
+Fundulea,42
+Gradinari,26
+Darza hc,21
+Peris,30
+Scrovistea hc,35
+Brazi,51
+Buda,66
+Floresti Prahova,78
+Sinaia Sud hc,119
+Poiana Tapului hc,126
+Darste,160
+Codlea,180
+Fagaras,231
+Ucea,256
+Avrig,282
+Podu Olt,293
+Talmaciu,297
+Sibiu,315
+Zarnesti,193
+Zarnesti hc,191
+Tohanu Vechi Hm,189
+Rasnov hc,184
+Rasnov,182
+Cristian,178
+Bartolomeu,169
+Sfantu Gheorghe,198
+Baile Tusnad Hm,232
+Miercurea Ciuc,261
+Siculeni,269
+Izvoru Oltului,286
+Izvoru Muresului,297
+Gheorgheni,316
+Toplita,350
+Deda,394
+Dej Calatori,490
+Catcau,503
+Galgau,513
+Ileanda,529
+Rastoci,536
+Letca,543
+Jibou,566
+Benesat,584
+Ulmeni Salaj,593
+Miresu Mare hm,599
+Satulung pe Somes,609
+Baia Mare,624
+Timisu de Sus Hm,150
+Reghin,416
+Targu Mures,448
+Iasi,405
+Letcani,419
+Movileni hc,428
+Potingeni hc,435
+Larga Jijia,440
+Vladeni,451
+Iacobenii Vechi hc,456
+Soldana,460
+Andrieseni hc,464
+Rediu,468
+Rauseni hc,472
+Todireni,478
+Jijia hc,487
+Zlatunoaia,492
+Trusesti,501
+Buhaceni hc,506
+Dangeni,512
+Dangeni Nord hc,517
+Ungureni,525
+Mandresti hc,530
+Vorniceni,537
+Mateieni hc,541
+Corlateni hc,546
+Carasa hc,548
+Dorohoi,559
+Ramnicu Sarat,161
+Focsani,199
+Marasesti,219
+Adjud,244
+Bacau,302
+Roman,346
+Pascani,386
+Dolhasca,407
+Veresti,432
+Suceava,447
+Gura Humorului Oras,494
+Frasin,501
+Vama,510
+Campulung Est,522
+Campulung Moldovenesc,526
+Pojorata,532
+Mestecanis,547
+Iacobeni,553
+Vatra Dornei,563
+Vatra Dornei Bai h,564
+Nicolina,403
+Buhaiesti,361
+Vaslui,338
+Crasna,322
+Barlad,285
+Tecuci,236
+Barnova,387
+Tecuci Nord hc,237
+Aradu Nou,584
+Santana,613
+Chisineu Cris,637
+Ciumeghiu,661
+Salonta,671
+Sacuieni Bihor,694
+Valea lui Mihai,715
+Carei,720
+Satu Mare,684
+Odoreu,672
+Mediesu Aurit,662
+Apa,657
+Seini,648
+Rupea,240
+Sighisoara,294
+Dumbraveni,315
+Medias,333
+Copsa Mica,344
+Blaj,374
+Teius,395
+Aiud,408
+Razboieni,429
+Campia Turzii,446
+Valea Larga Hm,116
+Augustin,215
+Racos,226
+Unirea hc,425
+Suceava Nord,450
+Targu Frumos,415
+Gherla,504
+Alba Iulia,407
+Vintu de Jos,397
+Sibot,412
+Orastie,424
+Simeria,441
+Deva,450
+Ilia,474
+Savirsin,514
+Radna,564
+Parc Mogosoaia,11
+Urziceni,71
+Garbovi,84
+Cotorca,92
+Pogoanele,105
+Rusetu,125
+Titu,48
+Gaesti,70
+Golesti,100
+Pitesti,108
+Carbunesti,291
+Targu Jiu,316
+Valea Sadului,336
+Petrosani,366
+Banita,378
+Subcetate,416
+Calan,432
+Parc Divertisment Chiajna,14
+Stoenesti,145
+Craiova Triaj hc,212
+Turceni,265
+Rovinari,301
+Lainici,347
+Liesti,261
+Floreni,575
+Dej,488
+Vinga,565
+Sag Hm,573
+Pascani Triaj h,384
+Bals,202
+Slatina,189
+Stolnici,146
+Costesti,130
+Sibiu hc,317
+Turnisor,319
+Cristian Sibiu,330
+Orlat,335
+Sibiel hc,338
+Sacelu Sibiului hc,341
+Saliste,345
+Aciliu hc,347
+Apoldu de Sus,358
+Apoldu de Jos hc,364
+Miercurea Sibiu,367
+Baile Miercurea hc,372
+Cunta,375
+Cut hc,380
+Rahau hc,383
+Sebes Alba,389
+Sebes Glod hc,391
+Barabant,405
+Santimbru,400
+Santimbru hc,398
+Coslariu,394
+Ocna Sibiului,325
+Baile Ocna Sibiului hc,327
+Mandra h,333
+Loamnes Hm,335
+Hasag hc,339
+Veseud h,343
+Seica Mare hc,347
+Seica Mare,349
+Agarbiciu hc,351
+Axente Sever h,347
+Tarnava hc,338
+Petrosani Triaj h,369
+Pestera Bolii h.,372
+Merisor,384
+Crivadia,389
+Baru Mare hc,392
+Baru Mare,394
+Livadia hc,397
+Ponor hc,398
+Pui,401
+Rusor hc,406
+Baesti,408
+Ohaba de Sub Piatra hc,410
+Ciopea h,412
+Covragiu h,419
+Plopi h,421
+Bretea Streiului,423
+Maceu hc,426
+Rusi hc,428
+Calan Bai,435
+Batiz hc,437
+Bacia Hm,439
+Bacia hc,440
+Simeria Triaj,443
+Depoul Buc. Triaj h,7
+Chitila,9
+Prahova,44
+Ploiesti Triaj hc,56
+Bobolia h,87
+Nistoresti hc,100
+Breaza Nord,103
+Posada hc,111
+Timisu de Jos hc,155
+Pajura Hm,5
+Bucuresti Basarab,3
+Bucuresti Basarab h,2
+Carpati h,3
+Bucuresti Triaj hc,5
+Balnaca hc,591
+Vadu Crisului hc,600
+Butan Hm,607
+Alesd hc,612
+Tetchea hc,617
+Telechiu Hm,621
+Sabolciu hc,631
+Sacadat Hm,633
+Oradea Est Triaj h,644
+Utvinis hc,600
+Zimandu Nou hc,603
+Comlaus hc,617
+Simand,625
+Nadab,632
+Zerind,645
+Tamasda,652
+Boiu Bihor hc,657
+Madaras Bihor hc,674
+Cefa,677
+Les Bihor Hm,666
+Oradea Vest,655
+Ronat Triaj Gr. D,540
+Sinandrei,546
+Baile Calacea,553
+Ortisoara,559
+Valea Viilor Hm,578
+Utvinisu Nou Hm,597
+Gepiu hc,672
+Apahida,509
+Bontida,521
+Iclod,514
+Caseiu Hm,496
+Rus hc,524
+Cuciulat,548
+Babuteni,551
+Ciocmani hc,555
+Surduc Salaj,559
+Episcopia Bihor,655
+Cluj Napoca Est,503
+Dezmir hc,507
+Apahida h,512
+Jucu,518
+Jucu de Jos hc,520
+Rascruci hc,523
+Fundatura hc,518
+Livada Somes hc,510
+Nima hc,496
+Coplean hc,499
+Capalna pe Somes hc,508
+Galgau h,516
+Glodu Somesului,520
+Bizusa hc,531
+Var hc,563
+Domnesti pe Sieu hc,435
+Mariselu,432
+Barla pe  Sieu hc,428
+Sieu,423
+Sieut hc,418
+Monor Gledin,412
+Rapa de Jos Hm,402
+Morareni hc,398
+Poptelec hc,574
+Mirsid,578
+Zalau Nord,589
+Cuceu Salaj hc,571
+Baile Sarata Monteoru hc,117
+Ulmeni,112
+Clondiru,108
+Sahateni,100
+Inotesti,86
+Tomsani hc,81
+Cricov,76
+Muru hc,74
+Valea Calugareasca,70
+Ploiesti Est,63
+Topile hc,390
+Cristesti Pascani hc,399
+Timisesti,403
+Plaiesu hc,409
+Sfantu Mina,411
+Targu Neamt,416
+Darmanesti,458
+Milisauti,468
+Tibeni hc,474
+Dornesti,480
+Radauti Gara Mica h,487
+Radauti,488
+Horodnic hc,493
+Galanesti,500
+Vicov h,503
+Vicovu de Jos hc,506
+Vicovu de Sus hc,508
+Bivolaria hc,511
+Gura Putnei,514
+Putna Troita h,516
+Putna Centru h,518
+Putna,520
+Palas,221
+Valu lui Traian,214
+Murfatlar hc,210
+Basarabi,207
+Poarta Alba hc,202
+Dorobantu,198
+Castelu hc,195
+Mircea Voda,180
+Saligny Gr. Est,172
+Dunarea Hm,161
+Ovidiu,154
+Ramificatia Borcea,151
+Baraganu,136
+Stefan cel Mare hc,131
+Jegalia,127
+Recolta hc,123
+Perisoru,121
+Ogoarele hc,118
+Ivanesti hc,102
+Dragos Voda,96
+Bogdana h,93
+Dalga Hm,85
+Dor Marunt,78
+Dor Marunt Sat h,75
+Preasna Hm,61
+Sarulesti,54
+Mostistea hc,48
+Islaz,32
+Branesti,30
+Branesti Sat hc,28
+Pasarea,23
+Pantelimon,17
+Nicolae Balcescu,209
+Targusor Dobrogea,224
+Cogealac,244
+Mihai Viteazu,262
+Baia Dobrogea,272
+Ceamurlia de Jos Hm,278
+Babadag,295
+Zebil,304
+Mihail Kogalniceanu,313
+Cataloi,321
+Tulcea Marfuri,330
+Tulcea Oras,334
+Bordei hc,208
