@@ -1,0 +1,520 @@
+0  Bucuresti Nord
+1  Videle
+2  Galateni
+3  Olteni
+4  Vartoapele hc
+5  Radoiesti Hm
+6  At�rnati
+7  Rosiori Nord
+8  Caracal
+9  Craiova
+10  Filiasi
+11  Strehaia hc
+12  Balota
+13  Drobeta Turnu Severin
+14  Orsova
+15  Baile Herculane
+16  Slatina Timis
+17  Caransebes
+18  Lugoj
+19  Timisoara Nord
+20  Arad
+21  Curtici
+22  Oradea
+23  Oradea Est
+24  Osorhei
+25  Tileagd
+26  Alesd
+27  Vadu Crisului
+28  Suncuius
+29  Bratca
+30  Stana de Vale hc
+31  Piatra Craiului
+32  Lacu Crisului h
+33  Negreni h
+34  Ciucea
+35  Valea Draganului hc
+36  Poieni
+37  Bologa hc
+38  Braisoru
+39  Huedin
+40  Aghires hc
+41  Aghires
+42  Garbau
+43  Cluj Napoca
+44  Baciu Triaj
+45  Radaia h
+46  Mera
+47  Bulz
+48  Doroltu hc
+49  Maneciu
+50  Gheaba 2
+51  Maneciu Pamanteni hc
+52  Izvoarele hc
+53  Homoriciu Hm
+54  Teisani
+55  Valeni Nord
+56  Valenii de Munte
+57  PO Gura Vitioarei
+58  Faget Teleajen
+59  Magurele Prahova N. hc
+60  Magurele Prahova
+61  Magurele Sud hc
+62  Lipanesti hc
+63  Boldesti hc
+64  Scaeni
+65  Blejoi
+66  Ploiesti Nord
+67  Ploiesti E. P. 1 h
+68  Ploiesti Sud
+69  Radomiresti
+70  Draganesti Olt
+71  Piatra Olt
+72  Dragasani
+73  Babeni
+74  Govora
+75  Ramnicu Valcea
+76  Calimanesti
+77  Pausa h
+78  Buftea
+79  Crivina
+80  Ploiesti Vest
+81  Campina
+82  Breaza hc
+83  Comarnic
+84  Sinaia
+85  Busteni
+86  Azuga
+87  Predeal
+88  Brasov
+89  Mizil
+90  Buzau
+91  Faurei
+92  Ianca
+93  Braila
+94  Barbosi
+95  Galati
+96  Lunca Ilvei
+97  Ilva Mare
+98  Magura Ilvei
+99  Poiana Ilvei
+100  Lesu Ilvei Hm
+101  Stramba h
+102  Ilva Mica
+103  Podereia Feldrului h.
+104  Feldru Hm
+105  Nepos hc
+106  Rebrisoara
+107  Nasaud
+108  Nasaud H
+109  Salva
+110  Mititei hc
+111  Nimigea
+112  Nimigea hc
+113  Mogoseni Hm
+114  Cociu hc
+115  Beclean pe Somes
+116  Sintereag
+117  Caila hc
+118  Sfantu hc
+119  Magherus Sieu
+120  Arcalia hc
+121  Saratel
+122  Bistrita Nord
+123  Suceag hc
+124  Nadasel hc
+125  Macau hc
+126  Galaseni hc
+127  Stana Hm
+128  Constanta
+129  Medgidia
+130  Cernavoda Pod
+131  Fetesti
+132  Ciulnita
+133  Bucuresti Baneasa
+134  Lehliu
+135  Fundulea
+136  Gradinari
+137  Darza hc
+138  Peris
+139  Scrovistea hc
+140  Brazi
+141  Buda
+142  Floresti Prahova
+143  Sinaia Sud hc
+144  Poiana Tapului hc
+145  Darste
+146  Codlea
+147  Fagaras
+148  Ucea
+149  Avrig
+150  Podu Olt
+151  Talmaciu
+152  Sibiu
+153  Zarnesti
+154  Zarnesti hc
+155  Tohanu Vechi Hm
+156  Rasnov hc
+157  Rasnov
+158  Cristian
+159  Bartolomeu
+160  Sfantu Gheorghe
+161  Baile Tusnad Hm
+162  Miercurea Ciuc
+163  Siculeni
+164  Izvoru Oltului
+165  Izvoru Muresului
+166  Gheorgheni
+167  Toplita
+168  Deda
+169  Dej Calatori
+170  Catcau
+171  Galgau
+172  Ileanda
+173  Rastoci
+174  Letca
+175  Jibou
+176  Benesat
+177  Ulmeni Salaj
+178  Miresu Mare hm
+179  Satulung pe Somes
+180  Baia Mare
+181  Timisu de Sus Hm
+182  Reghin
+183  Targu Mures
+184  Iasi
+185  Letcani
+186  Movileni hc
+187  Potingeni hc
+188  Larga Jijia
+189  Vladeni
+190  Iacobenii Vechi hc
+191  Soldana
+192  Andrieseni hc
+193  Rediu
+194  Rauseni hc
+195  Todireni
+196  Jijia hc
+197  Zlatunoaia
+198  Trusesti
+199  Buhaceni hc
+200  Dangeni
+201  Dangeni Nord hc
+202  Ungureni
+203  Mandresti hc
+204  Vorniceni
+205  Mateieni hc
+206  Corlateni hc
+207  Carasa hc
+208  Dorohoi
+209  Ramnicu Sarat
+210  Focsani
+211  Marasesti
+212  Adjud
+213  Bacau
+214  Roman
+215  Pascani
+216  Dolhasca
+217  Veresti
+218  Suceava
+219  Gura Humorului Oras
+220  Frasin
+221  Vama
+222  Campulung Est
+223  Campulung Moldovenesc
+224  Pojorata
+225  Mestecanis
+226  Iacobeni
+227  Vatra Dornei
+228  Vatra Dornei Bai h
+229  Nicolina
+230  Buhaiesti
+231  Vaslui
+232  Crasna
+233  Barlad
+234  Tecuci
+235  Barnova
+236  Tecuci Nord hc
+237  Aradu Nou
+238  Santana
+239  Chisineu Cris
+240  Ciumeghiu
+241  Salonta
+242  Sacuieni Bihor
+243  Valea lui Mihai
+244  Carei
+245  Satu Mare
+246  Odoreu
+247  Mediesu Aurit
+248  Apa
+249  Seini
+250  Rupea
+251  Sighisoara
+252  Dumbraveni
+253  Medias
+254  Copsa Mica
+255  Blaj
+256  Teius
+257  Aiud
+258  Razboieni
+259  Campia Turzii
+260  Valea Larga Hm
+261  Augustin
+262  Racos
+263  Unirea hc
+264  Suceava Nord
+265  Targu Frumos
+266  Gherla
+267  Alba Iulia
+268  Vintu de Jos
+269  Sibot
+270  Orastie
+271  Simeria
+272  Deva
+273  Ilia
+274  Savirsin
+275  Radna
+276  Parc Mogosoaia
+277  Urziceni
+278  Garbovi
+279  Cotorca
+280  Pogoanele
+281  Rusetu
+282  Titu
+283  Gaesti
+284  Golesti
+285  Pitesti
+286  Carbunesti
+287  Targu Jiu
+288  Valea Sadului
+289  Petrosani
+290  Banita
+291  Subcetate
+292  Calan
+293  Parc Divertisment Chiajna
+294  Stoenesti
+295  Craiova Triaj hc
+296  Turceni
+297  Rovinari
+298  Lainici
+299  Liesti
+300  Floreni
+301  Dej
+302  Vinga
+303  Sag Hm
+304  Pascani Triaj h
+305  Bals
+306  Slatina
+307  Stolnici
+308  Costesti
+309  Sibiu hc
+310  Turnisor
+311  Cristian Sibiu
+312  Orlat
+313  Sibiel hc
+314  Sacelu Sibiului hc
+315  Saliste
+316  Aciliu hc
+317  Apoldu de Sus
+318  Apoldu de Jos hc
+319  Miercurea Sibiu
+320  Baile Miercurea hc
+321  Cunta
+322  Cut hc
+323  Rahau hc
+324  Sebes Alba
+325  Sebes Glod hc
+326  Barabant
+327  Santimbru
+328  Santimbru hc
+329  Coslariu
+330  Ocna Sibiului
+331  Baile Ocna Sibiului hc
+332  Mandra h
+333  Loamnes Hm
+334  Hasag hc
+335  Veseud h
+336  Seica Mare hc
+337  Seica Mare
+338  Agarbiciu hc
+339  Axente Sever h
+340  Tarnava hc
+341  Petrosani Triaj h
+342  Pestera Bolii h.
+343  Merisor
+344  Crivadia
+345  Baru Mare hc
+346  Baru Mare
+347  Livadia hc
+348  Ponor hc
+349  Pui
+350  Rusor hc
+351  Baesti
+352  Ohaba de Sub Piatra hc
+353  Ciopea h
+354  Covragiu h
+355  Plopi h
+356  Bretea Streiului
+357  Maceu hc
+358  Rusi hc
+359  Calan Bai
+360  Batiz hc
+361  Bacia Hm
+362  Bacia hc
+363  Simeria Triaj
+364  Depoul Buc. Triaj h
+365  Chitila
+366  Prahova
+367  Ploiesti Triaj hc
+368  Bobolia h
+369  Nistoresti hc
+370  Breaza Nord
+371  Posada hc
+372  Timisu de Jos hc
+373  Pajura Hm
+374  Bucuresti Basarab
+375  Bucuresti Basarab h
+376  Carpati h
+377  Bucuresti Triaj hc
+378  Balnaca hc
+379  Vadu Crisului hc
+380  Butan Hm
+381  Alesd hc
+382  Tetchea hc
+383  Telechiu Hm
+384  Sabolciu hc
+385  Sacadat Hm
+386  Oradea Est Triaj h
+387  Utvinis hc
+388  Zimandu Nou hc
+389  Comlaus hc
+390  Simand
+391  Nadab
+392  Zerind
+393  Tamasda
+394  Boiu Bihor hc
+395  Madaras Bihor hc
+396  Cefa
+397  Les Bihor Hm
+398  Oradea Vest
+399  Ronat Triaj Gr. D
+400  Sinandrei
+401  Baile Calacea
+402  Ortisoara
+403  Valea Viilor Hm
+404  Utvinisu Nou Hm
+405  Gepiu hc
+406  Apahida
+407  Bontida
+408  Iclod
+409  Caseiu Hm
+410  Rus hc
+411  Cuciulat
+412  Babuteni
+413  Ciocmani hc
+414  Surduc Salaj
+415  Episcopia Bihor
+416  Cluj Napoca Est
+417  Dezmir hc
+418  Apahida h
+419  Jucu
+420  Jucu de Jos hc
+421  Rascruci hc
+422  Fundatura hc
+423  Livada Somes hc
+424  Nima hc
+425  Coplean hc
+426  Capalna pe Somes hc
+427  Galgau h
+428  Glodu Somesului
+429  Bizusa hc
+430  Var hc
+431  Domnesti pe Sieu hc
+432  Mariselu
+433  Barla pe  Sieu hc
+434  Sieu
+435  Sieut hc
+436  Monor Gledin
+437  Rapa de Jos Hm
+438  Morareni hc
+439  Poptelec hc
+440  Mirsid
+441  Zalau Nord
+442  Cuceu Salaj hc
+443  Baile Sarata Monteoru hc
+444  Ulmeni
+445  Clondiru
+446  Sahateni
+447  Inotesti
+448  Tomsani hc
+449  Cricov
+450  Muru hc
+451  Valea Calugareasca
+452  Ploiesti Est
+453  Topile hc
+454  Cristesti Pascani hc
+455  Timisesti
+456  Plaiesu hc
+457  Sfantu Mina
+458  Targu Neamt
+459  Darmanesti
+460  Milisauti
+461  Tibeni hc
+462  Dornesti
+463  Radauti Gara Mica h
+464  Radauti
+465  Horodnic hc
+466  Galanesti
+467  Vicov h
+468  Vicovu de Jos hc
+469  Vicovu de Sus hc
+470  Bivolaria hc
+471  Gura Putnei
+472  Putna Troita h
+473  Putna Centru h
+474  Putna
+475  Palas
+476  Valu lui Traian
+477  Murfatlar hc
+478  Basarabi
+479  Poarta Alba hc
+480  Dorobantu
+481  Castelu hc
+482  Mircea Voda
+483  Saligny Gr. Est
+484  Dunarea Hm
+485  Ovidiu
+486  Ramificatia Borcea
+487  Baraganu
+488  Stefan cel Mare hc
+489  Jegalia
+490  Recolta hc
+491  Perisoru
+492  Ogoarele hc
+493  Ivanesti hc
+494  Dragos Voda
+495  Bogdana h
+496  Dalga Hm
+497  Dor Marunt
+498  Dor Marunt Sat h
+499  Preasna Hm
+500  Sarulesti
+501  Mostistea hc
+502  Islaz
+503  Branesti
+504  Branesti Sat hc
+505  Pasarea
+506  Pantelimon
+507  Nicolae Balcescu
+508  Targusor Dobrogea
+509  Cogealac
+510  Mihai Viteazu
+511  Baia Dobrogea
+512  Ceamurlia de Jos Hm
+513  Babadag
+514  Zebil
+515  Mihail Kogalniceanu
+516  Cataloi
+517  Tulcea Marfuri
+518  Tulcea Oras
+519  Bordei hc

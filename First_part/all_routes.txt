@@ -1,0 +1,1789 @@
+index:12172  Bucuresti Nord
+index:12172  Videle
+index:12172  Galateni
+index:12172  Olteni
+index:12172  Vartoapele hc
+index:12172  Radoiesti Hm
+index:12172  At�rnati
+index:12172  Rosiori Nord
+index:12172  Caracal
+index:12172  Craiova
+index:12172  Filiasi
+index:12172  Strehaia hc
+index:12172  Balota
+index:12172  Drobeta Turnu Severin
+index:12172  Orsova
+index:12172  Baile Herculane
+index:12172  Slatina Timis
+index:12172  Caransebes
+index:12172  Lugoj
+index:12172  Timisoara Nord
+index:12172  Arad
+index:12172  Curtici
+index:15032  Oradea
+index:15032  Oradea Est
+index:15032  Osorhei
+index:15032  Tileagd
+index:15032  Alesd
+index:15032  Vadu Crisului
+index:15032  Suncuius
+index:15032  Bratca
+index:15032  Stana de Vale hc
+index:15032  Piatra Craiului
+index:15032  Lacu Crisului h
+index:15032  Negreni h
+index:15032  Ciucea
+index:15032  Valea Draganului hc
+index:15032  Poieni
+index:15032  Bologa hc
+index:15032  Braisoru
+index:15032  Huedin
+index:15032  Aghires hc
+index:15032  Aghires
+index:15032  Garbau
+index:15032  Cluj Napoca
+index:15033  Cluj Napoca
+index:15033  Baciu Triaj
+index:15033  Radaia h
+index:15033  Mera
+index:15033  Garbau
+index:15033  Aghires
+index:15033  Aghires hc
+index:15033  Huedin
+index:15033  Poieni
+index:15033  Ciucea
+index:15033  Negreni h
+index:15033  Lacu Crisului h
+index:15033  Piatra Craiului
+index:15033  Bulz
+index:15033  Stana de Vale hc
+index:15033  Bratca
+index:15033  Suncuius
+index:15033  Vadu Crisului
+index:15033  Alesd
+index:15033  Osorhei
+index:15033  Oradea Est
+index:15033  Oradea
+index:15037  Cluj Napoca
+index:15037  Baciu Triaj
+index:15037  Radaia h
+index:15037  Mera
+index:15037  Garbau
+index:15037  Doroltu hc
+index:15037  Aghires
+index:15037  Aghires hc
+index:15037  Huedin
+index:15037  Braisoru
+index:15037  Bologa hc
+index:15037  Poieni
+index:15037  Valea Draganului hc
+index:15037  Ciucea
+index:15037  Negreni h
+index:15037  Lacu Crisului h
+index:15037  Piatra Craiului
+index:15037  Bulz
+index:15037  Bratca
+index:15037  Suncuius
+index:15037  Vadu Crisului
+index:15037  Alesd
+index:15037  Osorhei
+index:15037  Oradea Est
+index:15037  Oradea
+index:15158  Maneciu
+index:15158  Gheaba 2
+index:15158  Maneciu Pamanteni hc
+index:15158  Izvoarele hc
+index:15158  Homoriciu Hm
+index:15158  Teisani
+index:15158  Valeni Nord
+index:15158  Valenii de Munte
+index:15158  PO Gura Vitioarei
+index:15158  Faget Teleajen
+index:15158  Magurele Prahova N. hc
+index:15158  Magurele Prahova
+index:15158  Magurele Sud hc
+index:15158  Lipanesti hc
+index:15158  Boldesti hc
+index:15158  Scaeni
+index:15158  Blejoi
+index:15158  Ploiesti Nord
+index:15158  Ploiesti E. P. 1 h
+index:15158  Ploiesti Sud
+index:1521  Bucuresti Nord
+index:1521  Videle
+index:1521  Rosiori Nord
+index:1521  Radomiresti
+index:1521  Draganesti Olt
+index:1521  Caracal
+index:1521  Piatra Olt
+index:1521  Dragasani
+index:1521  Babeni
+index:1521  Govora
+index:1521  Ramnicu Valcea
+index:1521  Calimanesti
+index:1521  Pausa h
+index:1529  Bucuresti Nord
+index:1529  Buftea
+index:1529  Crivina
+index:1529  Ploiesti Vest
+index:1529  Campina
+index:1529  Breaza hc
+index:1529  Comarnic
+index:1529  Sinaia
+index:1529  Busteni
+index:1529  Azuga
+index:1529  Predeal
+index:1529  Brasov
+index:1537  Cluj Napoca
+index:1537  Aghires
+index:1537  Huedin
+index:1537  Ciucea
+index:1537  Piatra Craiului
+index:1537  Bratca
+index:1537  Suncuius
+index:1537  Alesd
+index:1537  Tileagd
+index:1537  Oradea
+index:15591  Bucuresti Nord
+index:15591  Videle
+index:15591  Rosiori Nord
+index:15591  Caracal
+index:15591  Craiova
+index:15591  Filiasi
+index:15591  Balota
+index:15591  Drobeta Turnu Severin
+index:15591  Orsova
+index:15591  Baile Herculane
+index:15591  Caransebes
+index:15591  Lugoj
+index:15591  Timisoara Nord
+index:15591  Arad
+index:1571  Bucuresti Nord
+index:1571  Ploiesti Sud
+index:1571  Mizil
+index:1571  Buzau
+index:1571  Faurei
+index:1571  Ianca
+index:1571  Braila
+index:1571  Barbosi
+index:1571  Galati
+index:15715  Lunca Ilvei
+index:15715  Ilva Mare
+index:15715  Magura Ilvei
+index:15715  Poiana Ilvei
+index:15715  Lesu Ilvei Hm
+index:15715  Stramba h
+index:15715  Ilva Mica
+index:15715  Podereia Feldrului h.
+index:15715  Feldru Hm
+index:15715  Nepos hc
+index:15715  Rebrisoara
+index:15715  Nasaud
+index:15715  Nasaud H
+index:15715  Salva
+index:15715  Mititei hc
+index:15715  Nimigea
+index:15715  Nimigea hc
+index:15715  Mogoseni Hm
+index:15715  Cociu hc
+index:15715  Beclean pe Somes
+index:15715  Sintereag
+index:15715  Caila hc
+index:15715  Sfantu hc
+index:15715  Magherus Sieu
+index:15715  Arcalia hc
+index:15715  Saratel
+index:15715  Bistrita Nord
+index:1573  Bucuresti Nord
+index:1573  Ploiesti Sud
+index:1573  Mizil
+index:1573  Buzau
+index:1573  Faurei
+index:1573  Ianca
+index:1573  Braila
+index:1573  Barbosi
+index:1573  Galati
+index:1575  Bucuresti Nord
+index:1575  Ploiesti Sud
+index:1575  Mizil
+index:1575  Buzau
+index:1575  Faurei
+index:1575  Ianca
+index:1575  Braila
+index:1575  Barbosi
+index:1575  Galati
+index:15757  Cluj Napoca
+index:15757  Suceag hc
+index:15757  Radaia h
+index:15757  Mera
+index:15757  Nadasel hc
+index:15757  Garbau
+index:15757  Macau hc
+index:15757  Doroltu hc
+index:15757  Aghires
+index:15757  Aghires hc
+index:15757  Galaseni hc
+index:15757  Stana Hm
+index:15757  Huedin
+index:1580  Constanta
+index:1580  Medgidia
+index:1580  Cernavoda Pod
+index:1580  Fetesti
+index:1580  Ciulnita
+index:1580  Bucuresti Baneasa
+index:1580  Bucuresti Nord
+index:1582  Constanta
+index:1582  Medgidia
+index:1582  Cernavoda Pod
+index:1582  Fetesti
+index:1582  Ciulnita
+index:1582  Bucuresti Baneasa
+index:1582  Bucuresti Nord
+index:1584  Constanta
+index:1584  Medgidia
+index:1584  Cernavoda Pod
+index:1584  Fetesti
+index:1584  Ciulnita
+index:1584  Bucuresti Nord
+index:1586  Constanta
+index:1586  Medgidia
+index:1586  Cernavoda Pod
+index:1586  Fetesti
+index:1586  Ciulnita
+index:1586  Lehliu
+index:1586  Fundulea
+index:1586  Bucuresti Baneasa
+index:1586  Bucuresti Nord
+index:1586  Ploiesti Vest
+index:1586  Campina
+index:1586  Sinaia
+index:1586  Busteni
+index:1586  Azuga
+index:1586  Predeal
+index:1586  Brasov
+index:1594  Craiova
+index:1594  Caracal
+index:1594  Draganesti Olt
+index:1594  Radomiresti
+index:1594  Rosiori Nord
+index:1594  Olteni
+index:1594  Galateni
+index:1594  Videle
+index:1594  Gradinari
+index:1594  Bucuresti Nord
+index:15990  Craiova
+index:15990  Caracal
+index:15990  Rosiori Nord
+index:15990  Videle
+index:15990  Bucuresti Nord
+index:16039  Bucuresti Nord
+index:16039  Buftea
+index:16039  Darza hc
+index:16039  Peris
+index:16039  Scrovistea hc
+index:16039  Crivina
+index:16039  Brazi
+index:16039  Ploiesti Vest
+index:16039  Buda
+index:16039  Floresti Prahova
+index:16039  Campina
+index:16039  Breaza hc
+index:16039  Comarnic
+index:16039  Sinaia Sud hc
+index:16039  Sinaia
+index:16039  Poiana Tapului hc
+index:16039  Busteni
+index:16039  Azuga
+index:16039  Predeal
+index:16039  Darste
+index:16039  Brasov
+index:1623  Bucuresti Nord
+index:1623  Buftea
+index:1623  Ploiesti Vest
+index:1623  Campina
+index:1623  Comarnic
+index:1623  Sinaia
+index:1623  Busteni
+index:1623  Azuga
+index:1623  Predeal
+index:1623  Brasov
+index:1623  Codlea
+index:1623  Fagaras
+index:1623  Ucea
+index:1623  Avrig
+index:1623  Podu Olt
+index:1623  Talmaciu
+index:1623  Sibiu
+index:16342  Zarnesti
+index:16342  Zarnesti hc
+index:16342  Tohanu Vechi Hm
+index:16342  Rasnov hc
+index:16342  Rasnov
+index:16342  Cristian
+index:16342  Bartolomeu
+index:16342  Brasov
+index:1641  Bucuresti Nord
+index:1641  Ploiesti Vest
+index:1641  Floresti Prahova
+index:1641  Campina
+index:1641  Sinaia
+index:1641  Busteni
+index:1641  Azuga
+index:1641  Predeal
+index:1641  Brasov
+index:1641  Sfantu Gheorghe
+index:1641  Baile Tusnad Hm
+index:1641  Miercurea Ciuc
+index:1641  Siculeni
+index:1641  Izvoru Oltului
+index:1641  Izvoru Muresului
+index:1641  Gheorgheni
+index:1641  Toplita
+index:1641  Deda
+index:1641  Saratel
+index:1641  Beclean pe Somes
+index:1641  Dej Calatori
+index:1641  Catcau
+index:1641  Galgau
+index:1641  Ileanda
+index:1641  Rastoci
+index:1641  Letca
+index:1641  Jibou
+index:1641  Benesat
+index:1641  Ulmeni Salaj
+index:1641  Miresu Mare hm
+index:1641  Satulung pe Somes
+index:1641  Baia Mare
+index:1645  Bucuresti Nord
+index:1645  Ploiesti Vest
+index:1645  Campina
+index:1645  Sinaia
+index:1645  Busteni
+index:1645  Azuga
+index:1645  Predeal
+index:1645  Timisu de Sus Hm
+index:1645  Brasov
+index:1645  Sfantu Gheorghe
+index:1645  Baile Tusnad Hm
+index:1645  Miercurea Ciuc
+index:1645  Siculeni
+index:1645  Izvoru Oltului
+index:1645  Izvoru Muresului
+index:1645  Gheorgheni
+index:1645  Toplita
+index:1645  Deda
+index:1645  Reghin
+index:1645  Targu Mures
+index:16523  Iasi
+index:16523  Letcani
+index:16523  Movileni hc
+index:16523  Potingeni hc
+index:16523  Larga Jijia
+index:16523  Vladeni
+index:16523  Iacobenii Vechi hc
+index:16523  Soldana
+index:16523  Andrieseni hc
+index:16523  Rediu
+index:16523  Rauseni hc
+index:16523  Todireni
+index:16523  Jijia hc
+index:16523  Zlatunoaia
+index:16523  Trusesti
+index:16523  Buhaceni hc
+index:16523  Dangeni
+index:16523  Dangeni Nord hc
+index:16523  Ungureni
+index:16523  Mandresti hc
+index:16523  Vorniceni
+index:16523  Mateieni hc
+index:16523  Corlateni hc
+index:16523  Carasa hc
+index:16523  Dorohoi
+index:1653  Bucuresti Nord
+index:1653  Ploiesti Sud
+index:1653  Mizil
+index:1653  Buzau
+index:1653  Ramnicu Sarat
+index:1653  Focsani
+index:1653  Marasesti
+index:1653  Adjud
+index:1653  Bacau
+index:1653  Roman
+index:1653  Pascani
+index:1653  Dolhasca
+index:1653  Veresti
+index:1653  Suceava
+index:1653  Gura Humorului Oras
+index:1653  Frasin
+index:1653  Vama
+index:1653  Campulung Est
+index:1653  Campulung Moldovenesc
+index:1653  Pojorata
+index:1653  Mestecanis
+index:1653  Iacobeni
+index:1653  Vatra Dornei
+index:1653  Vatra Dornei Bai h
+index:1655  Bucuresti Nord
+index:1655  Ploiesti Sud
+index:1655  Mizil
+index:1655  Buzau
+index:1655  Ramnicu Sarat
+index:1655  Focsani
+index:1655  Marasesti
+index:1655  Adjud
+index:1655  Bacau
+index:1655  Suceava
+index:1657  Bucuresti Nord
+index:1657  Ploiesti Sud
+index:1657  Mizil
+index:1657  Buzau
+index:1657  Ramnicu Sarat
+index:1657  Focsani
+index:1657  Marasesti
+index:1657  Adjud
+index:1657  Bacau
+index:1660  Iasi
+index:1660  Nicolina
+index:1660  Buhaiesti
+index:1660  Vaslui
+index:1660  Crasna
+index:1660  Barlad
+index:1660  Tecuci
+index:1660  Focsani
+index:1660  Ramnicu Sarat
+index:1660  Buzau
+index:1660  Mizil
+index:1660  Ploiesti Sud
+index:1660  Bucuresti Nord
+index:1661  Bucuresti Nord
+index:1661  Ploiesti Sud
+index:1661  Buzau
+index:1661  Focsani
+index:1661  Tecuci
+index:1661  Barlad
+index:1661  Vaslui
+index:1661  Barnova
+index:1661  Nicolina
+index:1661  Iasi
+index:1662  Iasi
+index:1662  Nicolina
+index:1662  Buhaiesti
+index:1662  Vaslui
+index:1662  Crasna
+index:1662  Barlad
+index:1662  Tecuci Nord hc
+index:1662  Marasesti
+index:1662  Focsani
+index:1662  Ramnicu Sarat
+index:1662  Buzau
+index:1662  Mizil
+index:1662  Ploiesti Sud
+index:1662  Bucuresti Nord
+index:1663  Bucuresti Nord
+index:1663  Ploiesti Sud
+index:1663  Mizil
+index:1663  Buzau
+index:1663  Ramnicu Sarat
+index:1663  Focsani
+index:1663  Tecuci
+index:1663  Barlad
+index:1663  Crasna
+index:1663  Vaslui
+index:1663  Buhaiesti
+index:1663  Barnova
+index:1663  Nicolina
+index:1663  Iasi
+index:1665  Bucuresti Nord
+index:1665  Ploiesti Sud
+index:1665  Mizil
+index:1665  Buzau
+index:1665  Ramnicu Sarat
+index:1665  Focsani
+index:1665  Tecuci
+index:1665  Barlad
+index:1665  Crasna
+index:1665  Vaslui
+index:1665  Buhaiesti
+index:1665  Barnova
+index:1665  Nicolina
+index:1665  Iasi
+index:1667  Bucuresti Nord
+index:1667  Ploiesti Sud
+index:1667  Mizil
+index:1667  Buzau
+index:1667  Ramnicu Sarat
+index:1667  Focsani
+index:1667  Tecuci
+index:1667  Barlad
+index:1667  Crasna
+index:1667  Vaslui
+index:1667  Buhaiesti
+index:1667  Barnova
+index:1667  Nicolina
+index:1667  Iasi
+index:1668  Iasi
+index:1668  Nicolina
+index:1668  Buhaiesti
+index:1668  Vaslui
+index:1668  Crasna
+index:1668  Barlad
+index:1668  Tecuci
+index:1668  Focsani
+index:1668  Ramnicu Sarat
+index:1668  Buzau
+index:1668  Mizil
+index:1668  Ploiesti Sud
+index:1668  Bucuresti Nord
+index:1682  Constanta
+index:1682  Bucuresti Nord
+index:1684  Constanta
+index:1684  Medgidia
+index:1684  Cernavoda Pod
+index:1684  Fetesti
+index:1684  Ciulnita
+index:1684  Bucuresti Nord
+index:1686  Constanta
+index:1686  Bucuresti Nord
+index:1686  Predeal
+index:1686  Brasov
+index:1691  Bucuresti Nord
+index:1691  Videle
+index:1691  Rosiori Nord
+index:1691  Draganesti Olt
+index:1691  Caracal
+index:1691  Craiova
+index:1691  Filiasi
+index:1691  Strehaia hc
+index:1691  Balota
+index:1691  Drobeta Turnu Severin
+index:1691  Orsova
+index:1691  Baile Herculane
+index:1691  Caransebes
+index:1691  Lugoj
+index:1691  Timisoara Nord
+index:1693  Bucuresti Nord
+index:1693  Videle
+index:1693  Rosiori Nord
+index:1693  Caracal
+index:1693  Craiova
+index:1693  Filiasi
+index:1693  Strehaia hc
+index:1693  Balota
+index:1693  Drobeta Turnu Severin
+index:1693  Orsova
+index:1693  Baile Herculane
+index:1693  Caransebes
+index:1693  Lugoj
+index:1693  Timisoara Nord
+index:1733  Timisoara Nord
+index:1733  Aradu Nou
+index:1733  Arad
+index:1733  Santana
+index:1733  Chisineu Cris
+index:1733  Ciumeghiu
+index:1733  Salonta
+index:1733  Oradea
+index:1733  Sacuieni Bihor
+index:1733  Valea lui Mihai
+index:1733  Carei
+index:1733  Satu Mare
+index:1733  Odoreu
+index:1733  Mediesu Aurit
+index:1733  Apa
+index:1733  Seini
+index:1733  Baia Mare
+index:1741  Bucuresti Nord
+index:1741  Ploiesti Vest
+index:1741  Campina
+index:1741  Sinaia
+index:1741  Busteni
+index:1741  Azuga
+index:1741  Predeal
+index:1741  Brasov
+index:1741  Rupea
+index:1741  Sighisoara
+index:1741  Dumbraveni
+index:1741  Medias
+index:1741  Copsa Mica
+index:1741  Blaj
+index:1741  Teius
+index:1741  Aiud
+index:1741  Razboieni
+index:1741  Campia Turzii
+index:1741  Cluj Napoca
+index:1741  Aghires
+index:1741  Huedin
+index:1741  Ciucea
+index:1741  Bratca
+index:1741  Alesd
+index:1741  Oradea
+index:1741  Sacuieni Bihor
+index:1741  Valea lui Mihai
+index:1741  Carei
+index:1741  Satu Mare
+index:1745  Bucuresti Nord
+index:1745  Ploiesti Vest
+index:1745  Campina
+index:1745  Breaza hc
+index:1745  Comarnic
+index:1745  Valea Larga Hm
+index:1745  Sinaia
+index:1745  Busteni
+index:1745  Azuga
+index:1745  Predeal
+index:1745  Brasov
+index:1745  Augustin
+index:1745  Racos
+index:1745  Rupea
+index:1745  Sighisoara
+index:1745  Dumbraveni
+index:1745  Medias
+index:1745  Copsa Mica
+index:1745  Blaj
+index:1745  Teius
+index:1745  Aiud
+index:1745  Unirea hc
+index:1745  Razboieni
+index:1745  Campia Turzii
+index:1745  Cluj Napoca
+index:1751  Bucuresti Nord
+index:1751  Ploiesti Sud
+index:1751  Mizil
+index:1751  Buzau
+index:1751  Ramnicu Sarat
+index:1751  Focsani
+index:1751  Marasesti
+index:1751  Adjud
+index:1751  Bacau
+index:1751  Roman
+index:1751  Pascani
+index:1751  Dolhasca
+index:1751  Veresti
+index:1751  Suceava
+index:1753  Bucuresti Nord
+index:1753  Ploiesti Sud
+index:1753  Mizil
+index:1753  Buzau
+index:1753  Ramnicu Sarat
+index:1753  Focsani
+index:1753  Marasesti
+index:1753  Adjud
+index:1753  Bacau
+index:1753  Roman
+index:1753  Pascani
+index:1753  Dolhasca
+index:1753  Veresti
+index:1753  Suceava
+index:1753  Suceava Nord
+index:1755  Bucuresti Nord
+index:1755  Ploiesti Sud
+index:1755  Buzau
+index:1755  Focsani
+index:1755  Bacau
+index:1755  Pascani
+index:1755  Suceava
+index:1757  Bucuresti Nord
+index:1757  Ploiesti Sud
+index:1757  Mizil
+index:1757  Buzau
+index:1757  Ramnicu Sarat
+index:1757  Focsani
+index:1757  Marasesti
+index:1757  Adjud
+index:1757  Bacau
+index:1757  Roman
+index:1757  Pascani
+index:1757  Dolhasca
+index:1757  Veresti
+index:1757  Suceava
+index:1765  Iasi
+index:1765  Targu Frumos
+index:1765  Pascani
+index:1765  Dolhasca
+index:1765  Veresti
+index:1765  Suceava
+index:1765  Gura Humorului Oras
+index:1765  Frasin
+index:1765  Vama
+index:1765  Campulung Est
+index:1765  Campulung Moldovenesc
+index:1765  Pojorata
+index:1765  Mestecanis
+index:1765  Iacobeni
+index:1765  Vatra Dornei
+index:1765  Vatra Dornei Bai h
+index:1765  Lunca Ilvei
+index:1765  Magura Ilvei
+index:1765  Ilva Mica
+index:1765  Nasaud
+index:1765  Salva
+index:1765  Beclean pe Somes
+index:1765  Dej Calatori
+index:1765  Gherla
+index:1765  Cluj Napoca
+index:1765  Campia Turzii
+index:1765  Razboieni
+index:1765  Unirea hc
+index:1765  Aiud
+index:1765  Teius
+index:1765  Alba Iulia
+index:1765  Vintu de Jos
+index:1765  Sibot
+index:1765  Orastie
+index:1765  Simeria
+index:1765  Deva
+index:1765  Ilia
+index:1765  Savirsin
+index:1765  Radna
+index:1765  Arad
+index:1765  Aradu Nou
+index:1765  Timisoara Nord
+index:1769  Iasi
+index:1769  Pascani
+index:1771  Bucuresti Nord
+index:1771  Parc Mogosoaia
+index:1771  Urziceni
+index:1771  Garbovi
+index:1771  Cotorca
+index:1771  Pogoanele
+index:1771  Rusetu
+index:1771  Faurei
+index:1771  Ianca
+index:1771  Braila
+index:1771  Barbosi
+index:1771  Galati
+index:1773  Bucuresti Nord
+index:1773  Urziceni
+index:1773  Pogoanele
+index:1773  Faurei
+index:1773  Ianca
+index:1773  Braila
+index:1773  Barbosi
+index:1773  Galati
+index:1781  Bucuresti Nord
+index:1781  Titu
+index:1781  Gaesti
+index:1781  Golesti
+index:1781  Pitesti
+index:1783  Bucuresti Nord
+index:1783  Titu
+index:1783  Gaesti
+index:1783  Golesti
+index:1783  Pitesti
+index:1785  Bucuresti Nord
+index:1785  Titu
+index:1785  Gaesti
+index:1785  Golesti
+index:1785  Pitesti
+index:1821  Bucuresti Nord
+index:1821  Videle
+index:1821  Rosiori Nord
+index:1821  Draganesti Olt
+index:1821  Caracal
+index:1821  Craiova
+index:1821  Filiasi
+index:1821  Carbunesti
+index:1821  Targu Jiu
+index:1821  Valea Sadului
+index:1821  Petrosani
+index:1821  Banita
+index:1821  Subcetate
+index:1821  Calan
+index:1821  Simeria
+index:1821  Deva
+index:1821  Ilia
+index:1821  Savirsin
+index:1821  Radna
+index:1821  Arad
+index:1822  Arad
+index:1822  Radna
+index:1822  Savirsin
+index:1822  Ilia
+index:1822  Deva
+index:1822  Simeria
+index:1822  Calan
+index:1822  Subcetate
+index:1822  Petrosani
+index:1822  Valea Sadului
+index:1822  Targu Jiu
+index:1822  Carbunesti
+index:1822  Filiasi
+index:1822  Craiova
+index:1822  Caracal
+index:1822  Draganesti Olt
+index:1822  Rosiori Nord
+index:1822  Videle
+index:1822  Bucuresti Nord
+index:1823  Bucuresti Nord
+index:1823  Parc Divertisment Chiajna
+index:1823  Videle
+index:1823  Galateni
+index:1823  Olteni
+index:1823  Vartoapele hc
+index:1823  Rosiori Nord
+index:1823  Radomiresti
+index:1823  Draganesti Olt
+index:1823  Stoenesti
+index:1823  Caracal
+index:1823  Craiova
+index:1823  Craiova Triaj hc
+index:1823  Filiasi
+index:1823  Turceni
+index:1823  Rovinari
+index:1823  Targu Jiu
+index:1823  Valea Sadului
+index:1823  Lainici
+index:1823  Petrosani
+index:1823  Subcetate
+index:1823  Calan
+index:1823  Simeria
+index:1823  Deva
+index:1831  Galati
+index:1831  Barbosi
+index:1831  Liesti
+index:1831  Tecuci
+index:1831  Barlad
+index:1831  Crasna
+index:1831  Vaslui
+index:1831  Buhaiesti
+index:1831  Barnova
+index:1831  Nicolina
+index:1831  Iasi
+index:1831  Targu Frumos
+index:1831  Pascani
+index:1831  Dolhasca
+index:1831  Veresti
+index:1831  Suceava
+index:1831  Gura Humorului Oras
+index:1831  Frasin
+index:1831  Vama
+index:1831  Campulung Est
+index:1831  Campulung Moldovenesc
+index:1831  Pojorata
+index:1831  Mestecanis
+index:1831  Iacobeni
+index:1831  Vatra Dornei
+index:1831  Vatra Dornei Bai h
+index:1831  Floreni
+index:1831  Lunca Ilvei
+index:1831  Magura Ilvei
+index:1831  Ilva Mica
+index:1831  Nasaud
+index:1831  Salva
+index:1831  Beclean pe Somes
+index:1831  Dej
+index:1831  Dej Calatori
+index:1831  Gherla
+index:1831  Cluj Napoca
+index:1833  Iasi
+index:1833  Targu Frumos
+index:1833  Pascani
+index:1833  Dolhasca
+index:1833  Veresti
+index:1833  Suceava
+index:1833  Gura Humorului Oras
+index:1833  Frasin
+index:1833  Vama
+index:1833  Campulung Est
+index:1833  Campulung Moldovenesc
+index:1833  Pojorata
+index:1833  Mestecanis
+index:1833  Iacobeni
+index:1833  Vatra Dornei
+index:1833  Vatra Dornei Bai h
+index:1833  Lunca Ilvei
+index:1833  Magura Ilvei
+index:1833  Ilva Mica
+index:1833  Nasaud
+index:1833  Salva
+index:1833  Beclean pe Somes
+index:1833  Dej Calatori
+index:1833  Gherla
+index:1833  Cluj Napoca
+index:1833  Aghires
+index:1833  Huedin
+index:1833  Ciucea
+index:1833  Bratca
+index:1833  Suncuius
+index:1833  Alesd
+index:1833  Oradea
+index:1833  Salonta
+index:1833  Ciumeghiu
+index:1833  Chisineu Cris
+index:1833  Santana
+index:1833  Arad
+index:1833  Aradu Nou
+index:1833  Timisoara Nord
+index:1834  Timisoara Nord
+index:1834  Vinga
+index:1834  Sag Hm
+index:1834  Aradu Nou
+index:1834  Arad
+index:1834  Santana
+index:1834  Chisineu Cris
+index:1834  Ciumeghiu
+index:1834  Salonta
+index:1834  Oradea
+index:1834  Alesd
+index:1834  Suncuius
+index:1834  Bratca
+index:1834  Ciucea
+index:1834  Huedin
+index:1834  Aghires
+index:1834  Cluj Napoca
+index:1834  Gherla
+index:1834  Dej Calatori
+index:1834  Beclean pe Somes
+index:1834  Salva
+index:1834  Nasaud
+index:1834  Ilva Mica
+index:1834  Magura Ilvei
+index:1834  Lunca Ilvei
+index:1834  Vatra Dornei Bai h
+index:1834  Vatra Dornei
+index:1834  Iacobeni
+index:1834  Mestecanis
+index:1834  Pojorata
+index:1834  Campulung Moldovenesc
+index:1834  Campulung Est
+index:1834  Vama
+index:1834  Frasin
+index:1834  Gura Humorului Oras
+index:1834  Suceava
+index:1834  Veresti
+index:1834  Dolhasca
+index:1834  Pascani
+index:1834  Targu Frumos
+index:1834  Iasi
+index:1835  Bucuresti Nord
+index:1835  Videle
+index:1835  Rosiori Nord
+index:1835  Draganesti Olt
+index:1835  Caracal
+index:1835  Craiova
+index:1835  Filiasi
+index:1835  Carbunesti
+index:1835  Targu Jiu
+index:1835  Valea Sadului
+index:1835  Petrosani
+index:1835  Subcetate
+index:1835  Calan
+index:1835  Simeria
+index:1835  Orastie
+index:1835  Sibot
+index:1835  Vintu de Jos
+index:1835  Alba Iulia
+index:1835  Teius
+index:1853  Bucuresti Nord
+index:1853  Ploiesti Sud
+index:1853  Buzau
+index:1853  Ramnicu Sarat
+index:1853  Focsani
+index:1853  Marasesti
+index:1853  Adjud
+index:1853  Bacau
+index:1853  Roman
+index:1853  Pascani Triaj h
+index:1853  Targu Frumos
+index:1853  Iasi
+index:1854  Iasi
+index:1854  Targu Frumos
+index:1854  Pascani Triaj h
+index:1854  Roman
+index:1854  Bacau
+index:1854  Adjud
+index:1854  Marasesti
+index:1854  Focsani
+index:1854  Ramnicu Sarat
+index:1854  Buzau
+index:1854  Ploiesti Sud
+index:1854  Bucuresti Nord
+index:1890  Craiova
+index:1890  Bals
+index:1890  Piatra Olt
+index:1890  Slatina
+index:1890  Stolnici
+index:1890  Costesti
+index:1890  Pitesti
+index:1890  Golesti
+index:1890  Gaesti
+index:1890  Titu
+index:1890  Bucuresti Nord
+index:1897  Bucuresti Nord
+index:1897  Titu
+index:1897  Gaesti
+index:1897  Golesti
+index:1897  Pitesti
+index:1897  Costesti
+index:1897  Stolnici
+index:1897  Slatina
+index:1897  Piatra Olt
+index:1897  Bals
+index:1897  Craiova
+index:2411  Sibiu
+index:2411  Sibiu hc
+index:2411  Turnisor
+index:2411  Cristian Sibiu
+index:2411  Orlat
+index:2411  Sibiel hc
+index:2411  Sacelu Sibiului hc
+index:2411  Saliste
+index:2411  Aciliu hc
+index:2411  Apoldu de Sus
+index:2411  Apoldu de Jos hc
+index:2411  Miercurea Sibiu
+index:2411  Baile Miercurea hc
+index:2411  Cunta
+index:2411  Cut hc
+index:2411  Rahau hc
+index:2411  Sebes Alba
+index:2411  Sebes Glod hc
+index:2411  Vintu de Jos
+index:2411  Alba Iulia
+index:2411  Barabant
+index:2411  Santimbru
+index:2411  Santimbru hc
+index:2411  Coslariu
+index:2411  Teius
+index:2571  Sibiu
+index:2571  Sibiu hc
+index:2571  Ocna Sibiului
+index:2571  Baile Ocna Sibiului hc
+index:2571  Mandra h
+index:2571  Loamnes Hm
+index:2571  Hasag hc
+index:2571  Veseud h
+index:2571  Seica Mare hc
+index:2571  Seica Mare
+index:2571  Agarbiciu hc
+index:2571  Axente Sever h
+index:2571  Copsa Mica
+index:2571  Tarnava hc
+index:2571  Medias
+index:2713  Petrosani
+index:2713  Petrosani Triaj h
+index:2713  Pestera Bolii h.
+index:2713  Banita
+index:2713  Merisor
+index:2713  Crivadia
+index:2713  Baru Mare hc
+index:2713  Baru Mare
+index:2713  Livadia hc
+index:2713  Ponor hc
+index:2713  Pui
+index:2713  Rusor hc
+index:2713  Baesti
+index:2713  Ohaba de Sub Piatra hc
+index:2713  Ciopea h
+index:2713  Subcetate
+index:2713  Covragiu h
+index:2713  Plopi h
+index:2713  Bretea Streiului
+index:2713  Maceu hc
+index:2713  Rusi hc
+index:2713  Calan
+index:2713  Calan Bai
+index:2713  Batiz hc
+index:2713  Bacia Hm
+index:2713  Bacia hc
+index:2713  Simeria Triaj
+index:2713  Simeria
+index:3001  Bucuresti Nord
+index:3001  Depoul Buc. Triaj h
+index:3001  Chitila
+index:3001  Buftea
+index:3001  Darza hc
+index:3001  Peris
+index:3001  Scrovistea hc
+index:3001  Crivina
+index:3001  Prahova
+index:3001  Brazi
+index:3001  Ploiesti Triaj hc
+index:3001  Ploiesti Vest
+index:3001  Buda
+index:3001  Floresti Prahova
+index:3001  Bobolia h
+index:3001  Campina
+index:3001  Breaza hc
+index:3001  Nistoresti hc
+index:3001  Breaza Nord
+index:3001  Comarnic
+index:3001  Posada hc
+index:3001  Sinaia Sud hc
+index:3001  Sinaia
+index:3001  Poiana Tapului hc
+index:3001  Busteni
+index:3001  Azuga
+index:3001  Predeal
+index:3001  Timisu de Sus Hm
+index:3001  Timisu de Jos hc
+index:3001  Darste
+index:3001  Brasov
+index:3002  Brasov
+index:3002  Darste
+index:3002  Timisu de Sus Hm
+index:3002  Predeal
+index:3002  Azuga
+index:3002  Busteni
+index:3002  Poiana Tapului hc
+index:3002  Sinaia
+index:3002  Sinaia Sud hc
+index:3002  Posada hc
+index:3002  Comarnic
+index:3002  Breaza Nord
+index:3002  Nistoresti hc
+index:3002  Breaza hc
+index:3002  Campina
+index:3002  Bobolia h
+index:3002  Floresti Prahova
+index:3002  Buda
+index:3002  Ploiesti Vest
+index:3002  Ploiesti Triaj hc
+index:3002  Brazi
+index:3002  Prahova
+index:3002  Crivina
+index:3002  Scrovistea hc
+index:3002  Peris
+index:3002  Darza hc
+index:3002  Buftea
+index:3002  Chitila
+index:3002  Depoul Buc. Triaj h
+index:3002  Pajura Hm
+index:3002  Bucuresti Nord
+index:3003  Bucuresti Basarab
+index:3003  Bucuresti Basarab h
+index:3003  Carpati h
+index:3003  Pajura Hm
+index:3003  Depoul Buc. Triaj h
+index:3003  Chitila
+index:3003  Buftea
+index:3003  Darza hc
+index:3003  Peris
+index:3003  Scrovistea hc
+index:3003  Crivina
+index:3003  Prahova
+index:3003  Brazi
+index:3003  Ploiesti Triaj hc
+index:3003  Ploiesti Vest
+index:3003  Buda
+index:3003  Floresti Prahova
+index:3003  Bobolia h
+index:3003  Campina
+index:3003  Breaza hc
+index:3003  Nistoresti hc
+index:3003  Breaza Nord
+index:3003  Comarnic
+index:3003  Posada hc
+index:3003  Sinaia Sud hc
+index:3003  Sinaia
+index:3003  Poiana Tapului hc
+index:3003  Busteni
+index:3003  Azuga
+index:3003  Predeal
+index:3003  Timisu de Sus Hm
+index:3003  Timisu de Jos hc
+index:3003  Darste
+index:3003  Brasov
+index:3004  Brasov
+index:3004  Darste
+index:3004  Timisu de Jos hc
+index:3004  Timisu de Sus Hm
+index:3004  Predeal
+index:3004  Azuga
+index:3004  Busteni
+index:3004  Poiana Tapului hc
+index:3004  Sinaia
+index:3004  Sinaia Sud hc
+index:3004  Posada hc
+index:3004  Comarnic
+index:3004  Breaza Nord
+index:3004  Nistoresti hc
+index:3004  Breaza hc
+index:3004  Campina
+index:3004  Bobolia h
+index:3004  Floresti Prahova
+index:3004  Buda
+index:3004  Ploiesti Vest
+index:3004  Ploiesti Triaj hc
+index:3004  Brazi
+index:3004  Prahova
+index:3004  Crivina
+index:3004  Scrovistea hc
+index:3004  Peris
+index:3004  Darza hc
+index:3004  Buftea
+index:3004  Chitila
+index:3004  Bucuresti Triaj hc
+index:3004  Bucuresti Nord
+index:3005  Bucuresti Nord
+index:3005  Pajura Hm
+index:3005  Depoul Buc. Triaj h
+index:3005  Chitila
+index:3005  Buftea
+index:3005  Darza hc
+index:3005  Peris
+index:3005  Scrovistea hc
+index:3005  Crivina
+index:3005  Prahova
+index:3005  Brazi
+index:3005  Ploiesti Triaj hc
+index:3005  Ploiesti Vest
+index:3005  Buda
+index:3005  Floresti Prahova
+index:3005  Bobolia h
+index:3005  Campina
+index:3005  Breaza hc
+index:3005  Nistoresti hc
+index:3005  Breaza Nord
+index:3005  Comarnic
+index:3005  Posada hc
+index:3005  Valea Larga Hm
+index:3005  Sinaia Sud hc
+index:3005  Sinaia
+index:3005  Poiana Tapului hc
+index:3005  Busteni
+index:3005  Azuga
+index:3005  Predeal
+index:3005  Timisu de Sus Hm
+index:3005  Timisu de Jos hc
+index:3005  Darste
+index:3005  Brasov
+index:3006  Brasov
+index:3006  Darste
+index:3006  Timisu de Jos hc
+index:3006  Timisu de Sus Hm
+index:3006  Predeal
+index:3006  Azuga
+index:3006  Busteni
+index:3006  Poiana Tapului hc
+index:3006  Sinaia
+index:3006  Sinaia Sud hc
+index:3006  Valea Larga Hm
+index:3006  Comarnic
+index:3006  Breaza hc
+index:3006  Campina
+index:3006  Floresti Prahova
+index:3006  Buda
+index:3006  Ploiesti Vest
+index:3006  Ploiesti Triaj hc
+index:3006  Brazi
+index:3006  Prahova
+index:3006  Crivina
+index:3006  Scrovistea hc
+index:3006  Peris
+index:3006  Buftea
+index:3006  Chitila
+index:3006  Bucuresti Triaj hc
+index:3006  Bucuresti Nord
+index:3007  Bucuresti Nord
+index:3007  Depoul Buc. Triaj h
+index:3007  Chitila
+index:3007  Buftea
+index:3007  Darza hc
+index:3007  Peris
+index:3007  Scrovistea hc
+index:3007  Crivina
+index:3007  Prahova
+index:3007  Brazi
+index:3007  Ploiesti Triaj hc
+index:3007  Ploiesti Vest
+index:3007  Buda
+index:3007  Floresti Prahova
+index:3007  Campina
+index:3007  Breaza hc
+index:3007  Nistoresti hc
+index:3007  Breaza Nord
+index:3007  Comarnic
+index:3007  Posada hc
+index:3007  Valea Larga Hm
+index:3007  Sinaia Sud hc
+index:3007  Sinaia
+index:3007  Poiana Tapului hc
+index:3007  Busteni
+index:3007  Azuga
+index:3007  Predeal
+index:3007  Timisu de Sus Hm
+index:3007  Timisu de Jos hc
+index:3007  Darste
+index:3007  Brasov
+index:3008  Brasov
+index:3008  Darste
+index:3008  Timisu de Jos hc
+index:3008  Timisu de Sus Hm
+index:3008  Predeal
+index:3008  Azuga
+index:3008  Busteni
+index:3008  Poiana Tapului hc
+index:3008  Sinaia
+index:3008  Sinaia Sud hc
+index:3008  Posada hc
+index:3008  Comarnic
+index:3008  Breaza Nord
+index:3008  Nistoresti hc
+index:3008  Breaza hc
+index:3008  Campina
+index:3008  Bobolia h
+index:3008  Floresti Prahova
+index:3008  Buda
+index:3008  Ploiesti Vest
+index:3008  Ploiesti Triaj hc
+index:3008  Brazi
+index:3008  Prahova
+index:3008  Crivina
+index:3008  Scrovistea hc
+index:3008  Peris
+index:3008  Darza hc
+index:3008  Buftea
+index:3008  Chitila
+index:3008  Bucuresti Triaj hc
+index:3008  Bucuresti Nord
+index:3009  Bucuresti Basarab
+index:3009  Bucuresti Basarab h
+index:3009  Carpati h
+index:3009  Pajura Hm
+index:3009  Depoul Buc. Triaj h
+index:3009  Chitila
+index:3009  Buftea
+index:3009  Darza hc
+index:3009  Peris
+index:3009  Scrovistea hc
+index:3009  Crivina
+index:3009  Prahova
+index:3009  Brazi
+index:3009  Ploiesti Triaj hc
+index:3009  Ploiesti Vest
+index:3009  Buda
+index:3009  Floresti Prahova
+index:3009  Bobolia h
+index:3009  Campina
+index:3009  Breaza hc
+index:3009  Nistoresti hc
+index:3009  Breaza Nord
+index:3009  Comarnic
+index:3009  Posada hc
+index:3009  Valea Larga Hm
+index:3009  Sinaia Sud hc
+index:3009  Sinaia
+index:3009  Poiana Tapului hc
+index:3009  Busteni
+index:3009  Azuga
+index:3009  Predeal
+index:3009  Timisu de Sus Hm
+index:3009  Timisu de Jos hc
+index:3009  Darste
+index:3009  Brasov
+index:3010  Brasov
+index:3010  Darste
+index:3010  Timisu de Jos hc
+index:3010  Timisu de Sus Hm
+index:3010  Predeal
+index:3010  Azuga
+index:3010  Busteni
+index:3010  Poiana Tapului hc
+index:3010  Sinaia
+index:3010  Sinaia Sud hc
+index:3010  Valea Larga Hm
+index:3010  Posada hc
+index:3010  Comarnic
+index:3010  Breaza Nord
+index:3010  Nistoresti hc
+index:3010  Breaza hc
+index:3010  Campina
+index:3010  Bobolia h
+index:3010  Floresti Prahova
+index:3010  Buda
+index:3010  Ploiesti Vest
+index:3010  Ploiesti Triaj hc
+index:3010  Brazi
+index:3010  Prahova
+index:3010  Crivina
+index:3010  Scrovistea hc
+index:3010  Peris
+index:3010  Darza hc
+index:3010  Buftea
+index:3010  Chitila
+index:3010  Bucuresti Triaj hc
+index:3010  Bucuresti Nord
+index:3011  Bucuresti Nord
+index:3011  Depoul Buc. Triaj h
+index:3011  Chitila
+index:3011  Buftea
+index:3011  Peris
+index:3011  Scrovistea hc
+index:3011  Crivina
+index:3011  Prahova
+index:3011  Brazi
+index:3011  Ploiesti Vest
+index:3011  Floresti Prahova
+index:3011  Campina
+index:3011  Breaza hc
+index:3011  Comarnic
+index:3011  Sinaia
+index:3011  Poiana Tapului hc
+index:3011  Busteni
+index:3011  Azuga
+index:3011  Predeal
+index:3011  Timisu de Sus Hm
+index:3011  Darste
+index:3011  Brasov
+index:3012  Brasov
+index:3012  Darste
+index:3012  Timisu de Jos hc
+index:3012  Timisu de Sus Hm
+index:3012  Predeal
+index:3012  Azuga
+index:3012  Busteni
+index:3012  Poiana Tapului hc
+index:3012  Sinaia
+index:3012  Sinaia Sud hc
+index:3012  Valea Larga Hm
+index:3012  Posada hc
+index:3012  Comarnic
+index:3012  Breaza Nord
+index:3012  Nistoresti hc
+index:3012  Breaza hc
+index:3012  Campina
+index:3012  Bobolia h
+index:3012  Floresti Prahova
+index:3012  Buda
+index:3012  Ploiesti Vest
+index:3012  Brazi
+index:3012  Prahova
+index:3012  Crivina
+index:3012  Scrovistea hc
+index:3012  Peris
+index:3012  Buftea
+index:3012  Chitila
+index:3012  Bucuresti Nord
+index:3071  Cluj Napoca
+index:3071  Huedin
+index:3071  Poieni
+index:3071  Valea Draganului hc
+index:3071  Ciucea
+index:3071  Negreni h
+index:3071  Lacu Crisului h
+index:3071  Piatra Craiului
+index:3071  Bulz
+index:3071  Stana de Vale hc
+index:3071  Bratca
+index:3071  Balnaca hc
+index:3071  Suncuius
+index:3071  Vadu Crisului hc
+index:3071  Vadu Crisului
+index:3071  Butan Hm
+index:3071  Alesd hc
+index:3071  Alesd
+index:3071  Tetchea hc
+index:3071  Telechiu Hm
+index:3071  Tileagd
+index:3071  Sabolciu hc
+index:3071  Sacadat Hm
+index:3071  Osorhei
+index:3071  Oradea Est Triaj h
+index:3071  Oradea Est
+index:3071  Oradea
+index:3111  Arad
+index:3111  Utvinis hc
+index:3111  Zimandu Nou hc
+index:3111  Santana
+index:3111  Comlaus hc
+index:3111  Simand
+index:3111  Nadab
+index:3111  Chisineu Cris
+index:3111  Zerind
+index:3111  Tamasda
+index:3111  Boiu Bihor hc
+index:3111  Ciumeghiu
+index:3111  Salonta
+index:3111  Madaras Bihor hc
+index:3111  Cefa
+index:3111  Les Bihor Hm
+index:3111  Oradea Vest
+index:3111  Oradea
+index:3113  Timisoara Nord
+index:3113  Ronat Triaj Gr. D
+index:3113  Sinandrei
+index:3113  Baile Calacea
+index:3113  Ortisoara
+index:3113  Vinga
+index:3113  Sag Hm
+index:3113  Valea Viilor Hm
+index:3113  Aradu Nou
+index:3113  Arad
+index:3113  Utvinisu Nou Hm
+index:3113  Utvinis hc
+index:3113  Zimandu Nou hc
+index:3113  Santana
+index:3113  Comlaus hc
+index:3113  Simand
+index:3113  Nadab
+index:3113  Chisineu Cris
+index:3113  Zerind
+index:3113  Tamasda
+index:3113  Boiu Bihor hc
+index:3113  Ciumeghiu
+index:3113  Salonta
+index:3113  Madaras Bihor hc
+index:3113  Cefa
+index:3113  Gepiu hc
+index:3113  Oradea Vest
+index:3113  Oradea
+index:346  Bucuresti Nord
+index:346  Ploiesti Vest
+index:346  Sinaia
+index:346  Predeal
+index:346  Brasov
+index:346  Sighisoara
+index:346  Medias
+index:346  Blaj
+index:346  Coslariu
+index:346  Alba Iulia
+index:346  Simeria
+index:346  Deva
+index:346  Arad
+index:346  Curtici
+index:4004  Cluj Napoca
+index:4004  Apahida
+index:4004  Bontida
+index:4004  Iclod
+index:4004  Gherla
+index:4004  Dej Calatori
+index:4004  Caseiu Hm
+index:4004  Catcau
+index:4004  Galgau
+index:4004  Rus hc
+index:4004  Ileanda
+index:4004  Rastoci
+index:4004  Letca
+index:4004  Cuciulat
+index:4004  Babuteni
+index:4004  Ciocmani hc
+index:4004  Surduc Salaj
+index:4004  Jibou
+index:4004  Benesat
+index:4004  Ulmeni Salaj
+index:4004  Miresu Mare hm
+index:4004  Satulung pe Somes
+index:4004  Baia Mare
+index:406  Brasov
+index:406  Sfantu Gheorghe
+index:406  Baile Tusnad Hm
+index:406  Miercurea Ciuc
+index:406  Siculeni
+index:406  Izvoru Oltului
+index:406  Gheorgheni
+index:406  Toplita
+index:406  Deda
+index:406  Saratel
+index:406  Beclean pe Somes
+index:406  Dej Calatori
+index:406  Gherla
+index:406  Cluj Napoca
+index:406  Huedin
+index:406  Alesd
+index:406  Oradea
+index:406  Episcopia Bihor
+index:4094  Cluj Napoca
+index:4094  Cluj Napoca Est
+index:4094  Dezmir hc
+index:4094  Apahida
+index:4094  Apahida h
+index:4094  Jucu
+index:4094  Jucu de Jos hc
+index:4094  Rascruci hc
+index:4094  Bontida
+index:4094  Fundatura hc
+index:4094  Iclod
+index:4094  Livada Somes hc
+index:4094  Gherla
+index:4094  Nima hc
+index:4094  Dej Calatori
+index:4094  Caseiu Hm
+index:4094  Coplean hc
+index:4094  Catcau
+index:4094  Capalna pe Somes hc
+index:4094  Galgau
+index:4094  Galgau h
+index:4094  Glodu Somesului
+index:4094  Rus hc
+index:4094  Ileanda
+index:4094  Bizusa hc
+index:4094  Rastoci
+index:4094  Letca
+index:4094  Cuciulat
+index:4094  Babuteni
+index:4094  Ciocmani hc
+index:4094  Surduc Salaj
+index:4094  Var hc
+index:4094  Jibou
+index:4144  Bistrita Nord
+index:4144  Saratel
+index:4144  Domnesti pe Sieu hc
+index:4144  Mariselu
+index:4144  Barla pe  Sieu hc
+index:4144  Sieu
+index:4144  Sieut hc
+index:4144  Monor Gledin
+index:4144  Rapa de Jos Hm
+index:4144  Morareni hc
+index:4144  Deda
+index:4452  Jibou
+index:4452  Poptelec hc
+index:4452  Mirsid
+index:4452  Zalau Nord
+index:4454  Jibou
+index:4454  Cuceu Salaj hc
+index:4454  Poptelec hc
+index:4454  Mirsid
+index:4454  Zalau Nord
+index:472  Bucuresti Nord
+index:472  Ploiesti Vest
+index:472  Campina
+index:472  Sinaia
+index:472  Busteni
+index:472  Predeal
+index:472  Brasov
+index:472  Codlea
+index:472  Fagaras
+index:472  Sibiu
+index:472  Sebes Alba
+index:472  Vintu de Jos
+index:472  Simeria
+index:472  Deva
+index:472  Arad
+index:472  Curtici
+index:5076  Buzau
+index:5076  Baile Sarata Monteoru hc
+index:5076  Ulmeni
+index:5076  Clondiru
+index:5076  Sahateni
+index:5076  Mizil
+index:5076  Inotesti
+index:5076  Tomsani hc
+index:5076  Cricov
+index:5076  Muru hc
+index:5076  Valea Calugareasca
+index:5076  Ploiesti Est
+index:5076  Ploiesti Sud
+index:5521  Pascani
+index:5521  Topile hc
+index:5521  Cristesti Pascani hc
+index:5521  Timisesti
+index:5521  Plaiesu hc
+index:5521  Sfantu Mina
+index:5521  Targu Neamt
+index:5627  Suceava
+index:5627  Suceava Nord
+index:5627  Darmanesti
+index:5627  Milisauti
+index:5627  Tibeni hc
+index:5627  Dornesti
+index:5627  Radauti Gara Mica h
+index:5627  Radauti
+index:5627  Horodnic hc
+index:5627  Galanesti
+index:5627  Vicov h
+index:5627  Vicovu de Jos hc
+index:5627  Vicovu de Sus hc
+index:5627  Bivolaria hc
+index:5627  Gura Putnei
+index:5627  Putna Troita h
+index:5627  Putna Centru h
+index:5627  Putna
+index:78  Bucuresti Nord
+index:78  Videle
+index:78  Rosiori Nord
+index:78  Caracal
+index:78  Craiova
+index:78  Filiasi
+index:78  Strehaia hc
+index:78  Balota
+index:78  Drobeta Turnu Severin
+index:78  Orsova
+index:78  Baile Herculane
+index:78  Caransebes
+index:78  Lugoj
+index:78  Timisoara Nord
+index:78  Arad
+index:78  Curtici
+index:8004  Constanta
+index:8004  Palas
+index:8004  Valu lui Traian
+index:8004  Murfatlar hc
+index:8004  Basarabi
+index:8004  Poarta Alba hc
+index:8004  Dorobantu
+index:8004  Castelu hc
+index:8004  Medgidia
+index:8004  Mircea Voda
+index:8004  Saligny Gr. Est
+index:8004  Cernavoda Pod
+index:8004  Dunarea Hm
+index:8004  Ovidiu
+index:8004  Ramificatia Borcea
+index:8004  Fetesti
+index:8004  Baraganu
+index:8004  Stefan cel Mare hc
+index:8004  Jegalia
+index:8004  Recolta hc
+index:8004  Perisoru
+index:8004  Ogoarele hc
+index:8004  Ciulnita
+index:8004  Ivanesti hc
+index:8004  Dragos Voda
+index:8004  Bogdana h
+index:8004  Dalga Hm
+index:8004  Dor Marunt
+index:8004  Dor Marunt Sat h
+index:8004  Lehliu
+index:8004  Preasna Hm
+index:8004  Sarulesti
+index:8004  Mostistea hc
+index:8004  Fundulea
+index:8004  Islaz
+index:8004  Branesti
+index:8004  Branesti Sat hc
+index:8004  Pasarea
+index:8004  Pantelimon
+index:8004  Bucuresti Baneasa
+index:8004  Bucuresti Nord
+index:8655  Constanta
+index:8655  Basarabi
+index:8655  Poarta Alba hc
+index:8655  Medgidia
+index:8655  Nicolae Balcescu
+index:8655  Targusor Dobrogea
+index:8655  Cogealac
+index:8655  Mihai Viteazu
+index:8655  Baia Dobrogea
+index:8655  Ceamurlia de Jos Hm
+index:8655  Babadag
+index:8655  Zebil
+index:8655  Mihail Kogalniceanu
+index:8655  Cataloi
+index:8655  Tulcea Marfuri
+index:8655  Tulcea Oras
+index:9000  Craiova
+index:9000  Bordei hc
+index:9000  Caracal
+index:9000  Draganesti Olt
+index:9000  Radomiresti
+index:9000  Rosiori Nord
+index:9000  Vartoapele hc
+index:9000  Olteni
+index:9000  Galateni
+index:9000  Videle
+index:9000  Gradinari
+index:9000  Bucuresti Basarab h
+index:9000  Bucuresti Nord
+index:9033  Bucuresti Nord
+index:9033  Titu
+index:9033  Gaesti
+index:9033  Golesti
+index:9033  Pitesti
+index:9033  Costesti
+index:9033  Stolnici
+index:9033  Slatina
+index:9033  Piatra Olt
+index:9033  Bals
+index:9033  Craiova
