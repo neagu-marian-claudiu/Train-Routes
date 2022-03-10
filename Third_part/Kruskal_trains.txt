@@ -1,0 +1,520 @@
+Linii utilizate:
+Craiova --- Bordei hc   cost: 1 km
+Oradea Est --- Oradea Est Triaj h   cost: 1 km
+Radaia h --- Mera   cost: 1 km
+Maneciu --- Gheaba 2   cost: 1 km
+Maneciu Pamanteni hc --- Izvoarele hc   cost: 1 km
+Faget Teleajen --- Magurele Prahova N. hc   cost: 1 km
+Vatra Dornei --- Vatra Dornei Bai h   cost: 1 km
+Livadia hc --- Ponor hc   cost: 1 km
+Bacia Hm --- Bacia hc   cost: 1 km
+Bucuresti Basarab --- Bucuresti Basarab h   cost: 1 km
+Bucuresti Basarab h --- Carpati h   cost: 1 km
+Radauti Gara Mica h --- Radauti   cost: 1 km
+Doroltu hc --- Macau hc   cost: 2 km
+Alesd --- Alesd hc   cost: 2 km
+Gheaba 2 --- Maneciu Pamanteni hc   cost: 2 km
+Vadu Crisului --- Vadu Crisului hc   cost: 2 km
+Valenii de Munte --- PO Gura Vitioarei   cost: 2 km
+Bratca --- Balnaca hc   cost: 2 km
+Magurele Prahova --- Magurele Sud hc   cost: 2 km
+Lipanesti hc --- Boldesti hc   cost: 2 km
+Boldesti hc --- Scaeni   cost: 2 km
+Calimanesti --- Pausa h   cost: 2 km
+Sinaia --- Sinaia Sud hc   cost: 2 km
+Lesu Ilvei Hm --- Stramba h   cost: 2 km
+Podereia Feldrului h. --- Feldru Hm   cost: 2 km
+Nasaud --- Nasaud H   cost: 2 km
+Nimigea --- Nimigea hc   cost: 2 km
+Mogoseni Hm --- Cociu hc   cost: 2 km
+Caila hc --- Sfantu hc   cost: 2 km
+Magherus Sieu --- Arcalia hc   cost: 2 km
+Galaseni hc --- Stana Hm   cost: 2 km
+Sibiu --- Sibiu hc   cost: 2 km
+Zarnesti --- Zarnesti hc   cost: 2 km
+Zarnesti hc --- Tohanu Vechi Hm   cost: 2 km
+Rasnov hc --- Rasnov   cost: 2 km
+Dej Calatori --- Dej   cost: 2 km
+Ileanda --- Bizusa hc   cost: 2 km
+Iasi --- Nicolina   cost: 2 km
+Corlateni hc --- Carasa hc   cost: 2 km
+Stana de Vale hc --- Bulz   cost: 2 km
+Sibiu hc --- Turnisor   cost: 2 km
+Saliste --- Aciliu hc   cost: 2 km
+Sebes Alba --- Sebes Glod hc   cost: 2 km
+Santimbru --- Santimbru hc   cost: 2 km
+Ocna Sibiului --- Baile Ocna Sibiului hc   cost: 2 km
+Mandra h --- Loamnes Hm   cost: 2 km
+Seica Mare hc --- Seica Mare   cost: 2 km
+Baru Mare hc --- Baru Mare   cost: 2 km
+Negreni h --- Ciucea   cost: 2 km
+Rusor hc --- Baesti   cost: 2 km
+Baesti --- Ohaba de Sub Piatra hc   cost: 2 km
+Ohaba de Sub Piatra hc --- Ciopea h   cost: 2 km
+Covragiu h --- Plopi h   cost: 2 km
+Plopi h --- Bretea Streiului   cost: 2 km
+Maceu hc --- Rusi hc   cost: 2 km
+Calan Bai --- Batiz hc   cost: 2 km
+Batiz hc --- Bacia Hm   cost: 2 km
+Aghires --- Doroltu hc   cost: 2 km
+Depoul Buc. Triaj h --- Chitila   cost: 2 km
+Depoul Buc. Triaj h --- Pajura Hm   cost: 2 km
+Pajura Hm --- Carpati h   cost: 2 km
+Bucuresti Nord --- Bucuresti Basarab h   cost: 2 km
+Radaia h --- Suceag hc   cost: 2 km
+Sabolciu hc --- Sacadat Hm   cost: 2 km
+Apahida --- Dezmir hc   cost: 2 km
+Bontida --- Rascruci hc   cost: 2 km
+Jucu --- Jucu de Jos hc   cost: 2 km
+Cricov --- Muru hc   cost: 2 km
+Plaiesu hc --- Sfantu Mina   cost: 2 km
+Mera --- Nadasel hc   cost: 2 km
+Vicovu de Jos hc --- Vicovu de Sus hc   cost: 2 km
+Gura Putnei --- Putna Troita h   cost: 2 km
+Putna Troita h --- Putna Centru h   cost: 2 km
+Putna Centru h --- Putna   cost: 2 km
+Recolta hc --- Perisoru   cost: 2 km
+Islaz --- Branesti   cost: 2 km
+Branesti --- Branesti Sat hc   cost: 2 km
+Homoriciu Hm --- Teisani   cost: 3 km
+Valeni Nord --- Valenii de Munte   cost: 3 km
+PO Gura Vitioarei --- Faget Teleajen   cost: 3 km
+Galgau --- Galgau h   cost: 3 km
+Valea Draganului hc --- Poieni   cost: 3 km
+Jibou --- Var hc   cost: 3 km
+Magurele Prahova N. hc --- Magurele Prahova   cost: 3 km
+Poieni --- Bologa hc   cost: 3 km
+Suceava --- Suceava Nord   cost: 3 km
+Salonta --- Madaras Bihor hc   cost: 3 km
+Copsa Mica --- Axente Sever h   cost: 3 km
+Simeria --- Simeria Triaj   cost: 3 km
+Petrosani --- Petrosani Triaj h   cost: 3 km
+Subcetate --- Covragiu h   cost: 3 km
+Calan --- Calan Bai   cost: 3 km
+Bologa hc --- Braisoru   cost: 3 km
+Orlat --- Sibiel hc   cost: 3 km
+Sibiel hc --- Sacelu Sibiului hc   cost: 3 km
+Aghires hc --- Aghires   cost: 3 km
+Apoldu de Jos hc --- Miercurea Sibiu   cost: 3 km
+Baile Miercurea hc --- Cunta   cost: 3 km
+Cut hc --- Rahau hc   cost: 3 km
+Ploiesti Nord --- Ploiesti E. P. 1 h   cost: 3 km
+Ploiesti E. P. 1 h --- Ploiesti Sud   cost: 3 km
+Petrosani Triaj h --- Pestera Bolii h.   cost: 3 km
+Crivadia --- Baru Mare hc   cost: 3 km
+Baru Mare --- Livadia hc   cost: 3 km
+Ponor hc --- Pui   cost: 3 km
+Ploiesti Vest --- Ploiesti Triaj hc   cost: 3 km
+Breaza hc --- Nistoresti hc   cost: 3 km
+Comarnic --- Breaza Nord   cost: 3 km
+Bretea Streiului --- Maceu hc   cost: 3 km
+Busteni --- Poiana Tapului hc   cost: 3 km
+Brasov --- Bartolomeu   cost: 3 km
+Bacia hc --- Simeria Triaj   cost: 3 km
+Stramba h --- Ilva Mica   cost: 3 km
+Nistoresti hc --- Breaza Nord   cost: 3 km
+Ilva Mica --- Podereia Feldrului h.   cost: 3 km
+Alesd --- Tetchea hc   cost: 3 km
+Utvinis hc --- Zimandu Nou hc   cost: 3 km
+Utvinis hc --- Utvinisu Nou Hm   cost: 3 km
+Salva --- Mititei hc   cost: 3 km
+Apahida --- Apahida h   cost: 3 km
+Bontida --- Fundatura hc   cost: 3 km
+Caseiu Hm --- Coplean hc   cost: 3 km
+Cuciulat --- Babuteni   cost: 3 km
+Jucu de Jos hc --- Rascruci hc   cost: 3 km
+Domnesti pe Sieu hc --- Mariselu   cost: 3 km
+Poptelec hc --- Cuceu Salaj hc   cost: 3 km
+Galanesti --- Vicov h   cost: 3 km
+Vicov h --- Vicovu de Jos hc   cost: 3 km
+Vicovu de Sus hc --- Bivolaria hc   cost: 3 km
+Bivolaria hc --- Gura Putnei   cost: 3 km
+Craiova --- Craiova Triaj hc   cost: 3 km
+Murfatlar hc --- Basarabi   cost: 3 km
+Dorobantu --- Castelu hc   cost: 3 km
+Ovidiu --- Ramificatia Borcea   cost: 3 km
+Perisoru --- Ogoarele hc   cost: 3 km
+Dragos Voda --- Bogdana h   cost: 3 km
+Dor Marunt --- Dor Marunt Sat h   cost: 3 km
+Sinaia Sud hc --- Valea Larga Hm   cost: 3 km
+Alba Iulia --- Barabant   cost: 4 km
+Teisani --- Valeni Nord   cost: 4 km
+Iacobenii Vechi hc --- Soldana   cost: 4 km
+Garbau --- Macau hc   cost: 4 km
+Subcetate --- Ciopea h   cost: 4 km
+Busteni --- Azuga   cost: 4 km
+Soldana --- Andrieseni hc   cost: 4 km
+Calan --- Rusi hc   cost: 4 km
+Magura Ilvei --- Poiana Ilvei   cost: 4 km
+Andrieseni hc --- Rediu   cost: 4 km
+Bratca --- Stana de Vale hc   cost: 4 km
+Rediu --- Rauseni hc   cost: 4 km
+Chitila --- Bucuresti Triaj hc   cost: 4 km
+Vorniceni --- Mateieni hc   cost: 4 km
+Catcau --- Coplean hc   cost: 4 km
+Oradea --- Oradea Est   cost: 4 km
+Sacelu Sibiului hc --- Saliste   cost: 4 km
+Tetchea hc --- Telechiu Hm   cost: 4 km
+Nasaud H --- Salva   cost: 4 km
+Pascani --- Topile hc   cost: 4 km
+Ciucea --- Valea Draganului hc   cost: 4 km
+Campulung Est --- Campulung Moldovenesc   cost: 4 km
+Magurele Sud hc --- Lipanesti hc   cost: 4 km
+Mititei hc --- Nimigea   cost: 4 km
+Scaeni --- Blejoi   cost: 4 km
+Iclod --- Fundatura hc   cost: 4 km
+Iclod --- Livada Somes hc   cost: 4 km
+Blejoi --- Ploiesti Nord   cost: 4 km
+Rus hc --- Glodu Somesului   cost: 4 km
+Santimbru hc --- Coslariu   cost: 4 km
+Babuteni --- Ciocmani hc   cost: 4 km
+Ciocmani hc --- Surduc Salaj   cost: 4 km
+Surduc Salaj --- Var hc   cost: 4 km
+Cluj Napoca Est --- Dezmir hc   cost: 4 km
+Piatra Craiului --- Lacu Crisului h   cost: 4 km
+Santana --- Comlaus hc   cost: 4 km
+Galgau h --- Glodu Somesului   cost: 4 km
+Ciumeghiu --- Boiu Bihor hc   cost: 4 km
+Mariselu --- Barla pe  Sieu hc   cost: 4 km
+Rapa de Jos Hm --- Morareni hc   cost: 4 km
+Poptelec hc --- Mirsid   cost: 4 km
+Loamnes Hm --- Hasag hc   cost: 4 km
+Ulmeni --- Clondiru   cost: 4 km
+Nimigea hc --- Mogoseni Hm   cost: 4 km
+Muru hc --- Valea Calugareasca   cost: 4 km
+Cristesti Pascani hc --- Timisesti   cost: 4 km
+Piatra Craiului --- Bulz   cost: 4 km
+Sintereag --- Caila hc   cost: 4 km
+Hasag hc --- Veseud h   cost: 4 km
+Veseud h --- Seica Mare hc   cost: 4 km
+Lacu Crisului h --- Negreni h   cost: 4 km
+Ploiesti Sud --- Ploiesti Est   cost: 4 km
+Seica Mare --- Agarbiciu hc   cost: 4 km
+Agarbiciu hc --- Axente Sever h   cost: 4 km
+Arcalia hc --- Saratel   cost: 4 km
+Izvoarele hc --- Homoriciu Hm   cost: 4 km
+Valu lui Traian --- Murfatlar hc   cost: 4 km
+Rasnov --- Cristian   cost: 4 km
+Poarta Alba hc --- Dorobantu   cost: 4 km
+Deda --- Morareni hc   cost: 4 km
+Suncuius --- Balnaca hc   cost: 4 km
+Stefan cel Mare hc --- Jegalia   cost: 4 km
+Jegalia --- Recolta hc   cost: 4 km
+Constanta --- Palas   cost: 4 km
+Teius --- Coslariu   cost: 4 km
+Buftea --- Darza hc   cost: 4 km
+Razboieni --- Unirea hc   cost: 4 km
+Crivina --- Scrovistea hc   cost: 4 km
+Podu Olt --- Talmaciu   cost: 4 km
+Tulcea Marfuri --- Tulcea Oras   cost: 4 km
+Feldru Hm --- Nepos hc   cost: 5 km
+Nepos hc --- Rebrisoara   cost: 5 km
+Rebrisoara --- Nasaud   cost: 5 km
+Sfantu hc --- Magherus Sieu   cost: 5 km
+Medgidia --- Castelu hc   cost: 5 km
+Cernavoda Pod --- Dunarea Hm   cost: 5 km
+Fetesti --- Ramificatia Borcea   cost: 5 km
+Lehliu --- Dor Marunt Sat h   cost: 5 km
+Peris --- Scrovistea hc   cost: 5 km
+Brazi --- Ploiesti Triaj hc   cost: 5 km
+Darste --- Timisu de Jos hc   cost: 5 km
+Osorhei --- Oradea Est Triaj h   cost: 5 km
+Tohanu Vechi Hm --- Rasnov hc   cost: 5 km
+Tileagd --- Telechiu Hm   cost: 5 km
+Tileagd --- Sabolciu hc   cost: 5 km
+Catcau --- Capalna pe Somes hc   cost: 5 km
+Galgau --- Capalna pe Somes hc   cost: 5 km
+Ileanda --- Rus hc   cost: 5 km
+Rastoci --- Bizusa hc   cost: 5 km
+Letca --- Cuciulat   cost: 5 km
+Jibou --- Cuceu Salaj hc   cost: 5 km
+Timisu de Sus Hm --- Timisu de Jos hc   cost: 5 km
+Potingeni hc --- Larga Jijia   cost: 5 km
+Vladeni --- Iacobenii Vechi hc   cost: 5 km
+Vadu Crisului --- Butan Hm   cost: 5 km
+Jijia hc --- Zlatunoaia   cost: 5 km
+Trusesti --- Buhaceni hc   cost: 5 km
+Dangeni --- Dangeni Nord hc   cost: 5 km
+Ungureni --- Mandresti hc   cost: 5 km
+Suncuius --- Vadu Crisului hc   cost: 5 km
+Mateieni hc --- Corlateni hc   cost: 5 km
+Chisineu Cris --- Nadab   cost: 5 km
+Mediesu Aurit --- Apa   cost: 5 km
+Medias --- Tarnava hc   cost: 5 km
+Valea Larga Hm --- Posada hc   cost: 5 km
+Sag Hm --- Valea Viilor Hm   cost: 5 km
+Cristian Sibiu --- Orlat   cost: 5 km
+Miercurea Sibiu --- Baile Miercurea hc   cost: 5 km
+Cunta --- Cut hc   cost: 5 km
+Barabant --- Santimbru   cost: 5 km
+Cluj Napoca --- Baciu Triaj   cost: 5 km
+Merisor --- Crivadia   cost: 5 km
+Pui --- Rusor hc   cost: 5 km
+Vartoapele hc --- Radoiesti Hm   cost: 5 km
+Butan Hm --- Alesd hc   cost: 5 km
+Tamasda --- Boiu Bihor hc   cost: 5 km
+Cefa --- Gepiu hc   cost: 5 km
+Barla pe  Sieu hc --- Sieu   cost: 5 km
+Sieu --- Sieut hc   cost: 5 km
+Crivina --- Prahova   cost: 5 km
+Baile Sarata Monteoru hc --- Ulmeni   cost: 5 km
+Inotesti --- Tomsani hc   cost: 5 km
+Tomsani hc --- Cricov   cost: 5 km
+Sfantu Mina --- Targu Neamt   cost: 5 km
+Radauti --- Horodnic hc   cost: 5 km
+Campina --- Breaza hc   cost: 5 km
+Campina --- Bobolia h   cost: 5 km
+Basarabi --- Poarta Alba hc   cost: 5 km
+Comarnic --- Posada hc   cost: 5 km
+Baraganu --- Stefan cel Mare hc   cost: 5 km
+Sinaia --- Poiana Tapului hc   cost: 5 km
+Branesti Sat hc --- Pasarea   cost: 5 km
+Apoldu de Sus --- Apoldu de Jos hc   cost: 6 km
+Rauseni hc --- Todireni   cost: 6 km
+Dej Calatori --- Caseiu Hm   cost: 6 km
+Aghires hc --- Galaseni hc   cost: 6 km
+Rahau hc --- Sebes Alba   cost: 6 km
+Dej Calatori --- Nima hc   cost: 6 km
+Baile Ocna Sibiului hc --- Mandra h   cost: 6 km
+Garbau --- Nadasel hc   cost: 6 km
+Buhaceni hc --- Dangeni   cost: 6 km
+Oradea --- Oradea Vest   cost: 6 km
+Cluj Napoca --- Cluj Napoca Est   cost: 6 km
+Baciu Triaj --- Radaia h   cost: 6 km
+Olteni --- Vartoapele hc   cost: 6 km
+Fundulea --- Mostistea hc   cost: 6 km
+Oradea --- Episcopia Bihor   cost: 6 km
+Saratel --- Domnesti pe Sieu hc   cost: 6 km
+Campulung Moldovenesc --- Pojorata   cost: 6 km
+Ronat Triaj Gr. D --- Sinandrei   cost: 6 km
+Baile Calacea --- Ortisoara   cost: 6 km
+Apahida h --- Jucu   cost: 6 km
+Mestecanis --- Iacobeni   cost: 6 km
+Aradu Nou --- Valea Viilor Hm   cost: 6 km
+Sieut hc --- Monor Gledin   cost: 6 km
+Osorhei --- Sacadat Hm   cost: 6 km
+Ulmeni Salaj --- Miresu Mare hm   cost: 6 km
+Timisesti --- Plaiesu hc   cost: 6 km
+Copsa Mica --- Tarnava hc   cost: 6 km
+Milisauti --- Tibeni hc   cost: 6 km
+Tibeni hc --- Dornesti   cost: 6 km
+Brasov --- Darste   cost: 6 km
+Gherla --- Livada Somes hc   cost: 6 km
+Cernavoda Pod --- Saligny Gr. Est   cost: 6 km
+Vintu de Jos --- Sebes Glod hc   cost: 6 km
+Banita --- Pestera Bolii h.   cost: 6 km
+Banita --- Merisor   cost: 6 km
+Vinga --- Ortisoara   cost: 6 km
+Ivanesti hc --- Dragos Voda   cost: 6 km
+Sarulesti --- Mostistea hc   cost: 6 km
+Arad --- Aradu Nou   cost: 6 km
+Pasarea --- Pantelimon   cost: 6 km
+Baia Dobrogea --- Ceamurlia de Jos Hm   cost: 6 km
+Arad --- Utvinisu Nou Hm   cost: 7 km
+Cociu hc --- Beclean pe Somes   cost: 7 km
+Movileni hc --- Potingeni hc   cost: 7 km
+Atirnati --- Rosiori Nord   cost: 7 km
+Ciulnita --- Ivanesti hc   cost: 7 km
+Simand --- Nadab   cost: 7 km
+Zerind --- Tamasda   cost: 7 km
+Bucuresti Nord --- Bucuresti Baneasa   cost: 7 km
+Sinandrei --- Baile Calacea   cost: 7 km
+Draganesti Olt --- Stoenesti   cost: 7 km
+Timisoara Nord --- Ronat Triaj Gr. D   cost: 7 km
+Mizil --- Sahateni   cost: 7 km
+Mizil --- Inotesti   cost: 7 km
+Valea Calugareasca --- Ploiesti Est   cost: 7 km
+Ploiesti Vest --- Buda   cost: 7 km
+Brazi --- Prahova   cost: 7 km
+Dornesti --- Radauti Gara Mica h   cost: 7 km
+Horodnic hc --- Galanesti   cost: 7 km
+Lunca Ilvei --- Ilva Mare   cost: 7 km
+Mandresti hc --- Vorniceni   cost: 7 km
+Palas --- Valu lui Traian   cost: 7 km
+Rastoci --- Letca   cost: 7 km
+Dunarea Hm --- Ovidiu   cost: 7 km
+Gura Humorului Oras --- Frasin   cost: 7 km
+Ilva Mare --- Magura Ilvei   cost: 7 km
+Dalga Hm --- Dor Marunt   cost: 7 km
+Preasna Hm --- Sarulesti   cost: 7 km
+Azuga --- Predeal   cost: 7 km
+Galateni --- Olteni   cost: 7 km
+Sibiu hc --- Ocna Sibiului   cost: 8 km
+Buftea --- Chitila   cost: 8 km
+Dangeni Nord hc --- Ungureni   cost: 8 km
+Suceava Nord --- Darmanesti   cost: 8 km
+Garbovi --- Cotorca   cost: 8 km
+Golesti --- Pitesti   cost: 8 km
+Chisineu Cris --- Zerind   cost: 8 km
+Gherla --- Nima hc   cost: 8 km
+Mircea Voda --- Saligny Gr. Est   cost: 8 km
+Clondiru --- Sahateni   cost: 8 km
+Comlaus hc --- Simand   cost: 8 km
+Miercurea Ciuc --- Siculeni   cost: 8 km
+Bogdana h --- Dalga Hm   cost: 8 km
+Radoiesti Hm --- Atirnati   cost: 8 km
+Beclean pe Somes --- Sintereag   cost: 8 km
+Vinga --- Sag Hm   cost: 8 km
+Poiana Ilvei --- Lesu Ilvei Hm   cost: 8 km
+Babeni --- Govora   cost: 8 km
+Mihail Kogalniceanu --- Cataloi   cost: 8 km
+Letcani --- Movileni hc   cost: 9 km
+Madaras Bihor hc --- Cefa   cost: 9 km
+Todireni --- Jijia hc   cost: 9 km
+Braisoru --- Huedin   cost: 9 km
+Topile hc --- Cristesti Pascani hc   cost: 9 km
+Ciulnita --- Ogoarele hc   cost: 9 km
+Simeria --- Deva   cost: 9 km
+Apa --- Seini   cost: 9 km
+Zlatunoaia --- Trusesti   cost: 9 km
+Frasin --- Vama   cost: 9 km
+Darza hc --- Peris   cost: 9 km
+Benesat --- Ulmeni Salaj   cost: 9 km
+Cristian --- Bartolomeu   cost: 9 km
+Floresti Prahova --- Bobolia h   cost: 9 km
+Babadag --- Zebil   cost: 9 km
+Zebil --- Mihail Kogalniceanu   cost: 9 km
+Lehliu --- Preasna Hm   cost: 9 km
+Cataloi --- Tulcea Marfuri   cost: 9 km
+Alba Iulia --- Vintu de Jos   cost: 10 km
+Fetesti --- Baraganu   cost: 10 km
+Bucuresti Baneasa --- Pantelimon   cost: 10 km
+Miresu Mare hm --- Satulung pe Somes   cost: 10 km
+Fundulea --- Islaz   cost: 10 km
+Predeal --- Timisu de Sus Hm   cost: 10 km
+Monor Gledin --- Rapa de Jos Hm   cost: 10 km
+Iacobeni --- Vatra Dornei   cost: 10 km
+Darmanesti --- Milisauti   cost: 10 km
+Santana --- Zimandu Nou hc   cost: 10 km
+Ciumeghiu --- Salonta   cost: 10 km
+Odoreu --- Mediesu Aurit   cost: 10 km
+Mihai Viteazu --- Baia Dobrogea   cost: 10 km
+Medgidia --- Mircea Voda   cost: 10 km
+Augustin --- Racos   cost: 11 km
+Valea Sadului --- Lainici   cost: 11 km
+Turnisor --- Cristian Sibiu   cost: 11 km
+Aciliu hc --- Apoldu de Sus   cost: 11 km
+Huedin --- Stana Hm   cost: 11 km
+Larga Jijia --- Vladeni   cost: 11 km
+Avrig --- Podu Olt   cost: 11 km
+Caracal --- Stoenesti   cost: 11 km
+Saratel --- Bistrita Nord   cost: 11 km
+Bucuresti Nord --- Parc Mogosoaia   cost: 11 km
+Carasa hc --- Dorohoi   cost: 11 km
+Cefa --- Les Bihor Hm   cost: 11 km
+Les Bihor Hm --- Oradea Vest   cost: 11 km
+Buzau --- Baile Sarata Monteoru hc   cost: 11 km
+Mirsid --- Zalau Nord   cost: 11 km
+Vatra Dornei Bai h --- Floreni   cost: 11 km
+Izvoru Oltului --- Izvoru Muresului   cost: 11 km
+Govora --- Ramnicu Valcea   cost: 12 km
+Vama --- Campulung Est   cost: 12 km
+Buda --- Floresti Prahova   cost: 12 km
+Sibot --- Orastie   cost: 12 km
+Barbosi --- Galati   cost: 12 km
+Satu Mare --- Odoreu   cost: 12 km
+Radomiresti --- Draganesti Olt   cost: 12 km
+Urziceni --- Garbovi   cost: 13 km
+Piatra Olt --- Bals   cost: 13 km
+Teius --- Aiud   cost: 13 km
+Cotorca --- Pogoanele   cost: 13 km
+Iasi --- Letcani   cost: 14 km
+Bucuresti Nord --- Parc Divertisment Chiajna   cost: 14 km
+Brasov --- Codlea   cost: 14 km
+Rupea --- Racos   cost: 14 km
+Faurei --- Rusetu   cost: 14 km
+Vintu de Jos --- Sibot   cost: 15 km
+Pojorata --- Mestecanis   cost: 15 km
+Veresti --- Suceava   cost: 15 km
+Satulung pe Somes --- Baia Mare   cost: 15 km
+Nicolae Balcescu --- Targusor Dobrogea   cost: 15 km
+Videle --- Galateni   cost: 16 km
+Nicolina --- Barnova   cost: 16 km
+Vaslui --- Crasna   cost: 16 km
+Stolnici --- Costesti   cost: 16 km
+Ramnicu Valcea --- Calimanesti   cost: 16 km
+Siculeni --- Izvoru Oltului   cost: 17 km
+Orsova --- Baile Herculane   cost: 17 km
+Orastie --- Simeria   cost: 17 km
+Faurei --- Ianca   cost: 17 km
+Piatra Olt --- Slatina   cost: 17 km
+Arad --- Curtici   cost: 17 km
+Ceamurlia de Jos Hm --- Babadag   cost: 17 km
+Aiud --- Unirea hc   cost: 17 km
+Razboieni --- Campia Turzii   cost: 17 km
+Talmaciu --- Sibiu   cost: 18 km
+Marasesti --- Tecuci Nord hc   cost: 18 km
+Dumbraveni --- Medias   cost: 18 km
+Jibou --- Benesat   cost: 18 km
+Cogealac --- Mihai Viteazu   cost: 18 km
+Braila --- Barbosi   cost: 19 km
+Petrosani --- Lainici   cost: 19 km
+Medgidia --- Nicolae Balcescu   cost: 19 km
+Balota --- Drobeta Turnu Severin   cost: 19 km
+Izvoru Muresului --- Gheorgheni   cost: 19 km
+Blaj --- Coslariu   cost: 20 km
+Focsani --- Marasesti   cost: 20 km
+Targusor Dobrogea --- Cogealac   cost: 20 km
+Targu Jiu --- Valea Sadului   cost: 20 km
+Filiasi --- Turceni   cost: 20 km
+Pogoanele --- Rusetu   cost: 20 km
+Pascani --- Dolhasca   cost: 21 km
+Sighisoara --- Dumbraveni   cost: 21 km
+Sacuieni Bihor --- Valea lui Mihai   cost: 21 km
+Slatina Timis --- Caransebes   cost: 21 km
+Deda --- Reghin   cost: 22 km
+Pitesti --- Costesti   cost: 22 km
+Beclean pe Somes --- Dej   cost: 22 km
+Titu --- Gaesti   cost: 22 km
+Targu Jiu --- Rovinari   cost: 23 km
+Buhaiesti --- Vaslui   cost: 23 km
+Drobeta Turnu Severin --- Orsova   cost: 24 km
+Gradinari --- Bucuresti Basarab h   cost: 24 km
+Baia Mare --- Seini   cost: 24 km
+Deva --- Ilia   cost: 24 km
+Carbunesti --- Targu Jiu   cost: 25 km
+Marasesti --- Adjud   cost: 25 km
+Tecuci --- Liesti   cost: 25 km
+Dolhasca --- Veresti   cost: 25 km
+Videle --- Gradinari   cost: 25 km
+Fagaras --- Ucea   cost: 25 km
+Buhaiesti --- Barnova   cost: 26 km
+Filiasi --- Strehaia hc   cost: 26 km
+Rosiori Nord --- Radomiresti   cost: 26 km
+Ucea --- Avrig   cost: 26 km
+Baile Tusnad Hm --- Miercurea Ciuc   cost: 29 km
+Gaesti --- Golesti   cost: 30 km
+Valea lui Mihai --- Carei   cost: 31 km
+Craiova --- Bals   cost: 31 km
+Targu Frumos --- Pascani Triaj h   cost: 31 km
+Pascani --- Targu Frumos   cost: 31 km
+Reghin --- Targu Mures   cost: 32 km
+Lunca Ilvei --- Floreni   cost: 32 km
+Brasov --- Sfantu Gheorghe   cost: 32 km
+Strehaia hc --- Balota   cost: 33 km
+Filiasi --- Craiova Triaj hc   cost: 33 km
+Buzau --- Ramnicu Sarat   cost: 33 km
+Dragasani --- Babeni   cost: 33 km
+Caracal --- Piatra Olt   cost: 33 km
+Gheorgheni --- Toplita   cost: 34 km
+Sfantu Gheorghe --- Baile Tusnad Hm   cost: 34 km
+Piatra Olt --- Dragasani   cost: 34 km
+Arad --- Radna   cost: 35 km
+Carei --- Satu Mare   cost: 36 km
+Turceni --- Rovinari   cost: 36 km
+Crasna --- Barlad   cost: 37 km
+Focsani --- Tecuci   cost: 37 km
+Roman --- Pascani Triaj h   cost: 38 km
+Ramnicu Sarat --- Focsani   cost: 38 km
+Caransebes --- Lugoj   cost: 39 km
+Buzau --- Faurei   cost: 40 km
+Ilia --- Savirsin   cost: 40 km
+Slatina --- Stolnici   cost: 43 km
+Ianca --- Braila   cost: 43 km
+Toplita --- Deda   cost: 44 km
+Bacau --- Roman   cost: 44 km
+Iasi --- Targu Frumos   cost: 45 km
+Suceava --- Gura Humorului Oras   cost: 47 km
+Barlad --- Tecuci Nord hc   cost: 48 km
+Brasov --- Augustin   cost: 49 km
+Baile Herculane --- Slatina Timis   cost: 50 km
